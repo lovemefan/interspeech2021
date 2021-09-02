@@ -1,0 +1,1000 @@
+ Fri-A-O-1-1 | Unsupervised Representation Learning for Speech Activity Detection in the Fearless Steps Challenge 2021
+ Fri-A-O-1-2 | The Application of Learnable STRF Kernels to the 2021 Fearless Steps Phase-03 SAD Challenge
+ Fri-A-O-1-3 | Speech Activity Detection Based on Multilingual Speech Recognition System
+ Fri-A-O-1-4 | Voice Activity Detection with Teacher-Student Domain Emulation
+ Fri-A-O-1-5 | EML Online Speech Activity Detection for the Fearless Steps Challenge Phase-III
+ Fri-A-O-2-1 | Device Playback Augmentation with Echo Cancellation for Keyword Spotting
+ Fri-A-O-2-2 | End-to-End Open Vocabulary Keyword Search
+ Fri-A-O-2-3 | Semantic Sentence Similarity: Size does not Always Matter
+ Fri-A-O-2-4 | Spoken Term Detection and Relevance Score Estimation Using Dot-Product of Pronunciation Embeddings
+ Fri-A-O-2-5 | Toward Genre Adapted Closed Captioning
+ Fri-A-S&T-1-1 | Interactive and Real-Time Acoustic Measurement Tools for Speech Data Acquisition and Presentation: Application of an Extended Member of Time Stretched Pulses
+ Fri-A-S&T-1-2 | Save Your Voice: Voice Banking and TTS for Anyone
+ Fri-A-S&T-1-3 | NeMo (Inverse) Text Normalization: From Development to Production
+ Fri-A-S&T-1-4 | Lalilo: A Reading Assistant for Children Featuring Speech Recognition-Based Reading Mistake Detection
+ Fri-A-S&T-1-5 | Automatic Radiology Report Editing Through Voice
+ Fri-A-S&T-1-6 | WittyKiddy: Multilingual Spoken Language Learning for Kids
+ Fri-A-S&T-1-7 | Duplex Conversation in Outbound Agent System
+ Fri-A-S&T-1-8 | Web Interface for Estimating Articulatory Movements in Speech Production from Acoustics and Text
+ Fri-A-SS-1-1 | INTERSPEECH 2021 Acoustic Echo Cancellation Challenge
+ Fri-A-SS-1-2 | Acoustic Echo Cancellation with Cross-Domain Learning
+ Fri-A-SS-1-3 | F-T-LSTM Based Complex Network for Joint Acoustic Echo Cancellation and Speech Enhancement
+ Fri-A-SS-1-4 | Y²-Net FCRN for Acoustic Echo and Noise Suppression
+ Fri-A-SS-1-5 | Acoustic Echo Cancellation Using Deep Complex Neural Network with Nonlinear Magnitude Compression and Phase Information
+ Fri-A-SS-1-6 | Nonlinear Acoustic Echo Cancellation with Deep Learning
+ Fri-A-SS-2-1 | Automatic Speech Recognition of Disordered Speech: Personalized Models Outperforming Human Listeners on Short Phrases
+ Fri-A-SS-2-10 | A Voice-Activated Switch for Persons with Motor and Speech Impairments: Isolated-Vowel Spotting Using Neural Networks
+ Fri-A-SS-2-11 | Conformer Parrotron: A Faster and Stronger End-to-End Speech Conversion and Recognition Model for Atypical Speech
+ Fri-A-SS-2-12 | Disordered Speech Data Collection: Lessons Learned at 1 Million Utterances from Project Euphonia
+ Fri-A-SS-2-13 | Automatic Severity Classification of Korean Dysarthric Speech Using Phoneme-Level Pronunciation Features
+ Fri-A-SS-2-14 | Comparing Supervised Models and Learned Speech Representations for Classifying Intelligibility of Disordered Speech on Selected Phrases
+ Fri-A-SS-2-15 | Analysis and Tuning of a Voice Assistant System for Dysfluent Speech
+ Fri-A-SS-2-2 | Investigating the Utility of Multimodal Conversational Technology and Audiovisual Analytic Measures for the Assessment and Monitoring of Amyotrophic Lateral Sclerosis at Scale
+ Fri-A-SS-2-3 | Handling Acoustic Variation in Dysarthric Speech Recognition Systems Through Model Combination
+ Fri-A-SS-2-4 | Spectro-Temporal Deep Features for Disordered Speech Assessment and Recognition
+ Fri-A-SS-2-5 | Speaking with a KN95 Face Mask: ASR Performance and Speaker Compensation
+ Fri-A-SS-2-6 | Adversarial Data Augmentation for Disordered Speech Recognition
+ Fri-A-SS-2-7 | Variational Auto-Encoder Based Variability Encoding for Dysarthric Speech Recognition
+ Fri-A-SS-2-8 | Learning Explicit Prosody Models and Deep Speaker Embeddings for Atypical Voice Conversion
+ Fri-A-SS-2-9 | Bayesian Parametric and Architectural Domain Adaptation of LF-MMI Trained TDNNs for Elderly and Dysarthric Speech Recognition
+ Fri-A-V-1-1 | Weakly-Supervised Word-Level Pronunciation Error Detection in Non-Native English Speech
+ Fri-A-V-1-10 | The Impact of ASR on the Automatic Analysis of Linguistic Complexity and Sophistication in Spontaneous L2 Speech
+ Fri-A-V-1-11 | End-to-End Rich Transcription-Style Automatic Speech Recognition with Semi-Supervised Learning
+ Fri-A-V-1-12 | “You don’t understand me!”: Comparing ASR Results for L1 and L2 Speakers of Swedish
+ Fri-A-V-1-13 | NeMo Inverse Text Normalization: From Development to Production
+ Fri-A-V-1-14 | Improvement of Automatic English Pronunciation Assessment with Small Number of Utterances Using Sentence Speakability
+ Fri-A-V-1-2 | End-to-End Speaker-Attributed ASR with Transformer
+ Fri-A-V-1-3 | Understanding Medical Conversations: Rich Transcription, Confidence Scores & Information Extraction
+ Fri-A-V-1-4 | Phone-Level Pronunciation Scoring for Spanish Speakers Learning English Using a GOP-DNN System
+ Fri-A-V-1-5 | Explore wav2vec 2.0 for Mispronunciation Detection
+ Fri-A-V-1-6 | Lexical Density Analysis of Word Productions in Japanese English Using Acoustic Word Embeddings
+ Fri-A-V-1-7 | Deep Feature Transfer Learning for Automatic Pronunciation Assessment
+ Fri-A-V-1-8 | Multilingual Speech Evaluation: Case Studies on English, Malay and Tamil
+ Fri-A-V-1-9 | A Study on Fine-Tuning wav2vec2.0 Model for the Task of Mispronunciation Detection and Diagnosis
+ Fri-A-V-2-1 | Affect Recognition Through Scalogram and Multi-Resolution Cochleagram Features
+ Fri-A-V-2-10 | Time-Frequency Representation Learning with Graph Convolutional Network for Dialogue-Level Speech Emotion Recognition
+ Fri-A-V-2-2 | A Speech Emotion Recognition Framework for Better Discrimination of Confusions
+ Fri-A-V-2-3 | Speech Emotion Recognition via Multi-Level Cross-Modal Distillation
+ Fri-A-V-2-4 | Audio-Visual Speech Emotion Recognition by Disentangling Emotion and Identity Attributes
+ Fri-A-V-2-5 | Parametric Distributions to Model Numerical Emotion Labels
+ Fri-A-V-2-6 | Metric Learning Based Feature Representation with Gated Fusion Model for Speech Emotion Recognition
+ Fri-A-V-2-7 | Speech Emotion Recognition with Multi-Task Learning
+ Fri-A-V-2-8 | Generalized Dilated CNN Models for Depression Detection Using Inverted Vocal Tract Variables
+ Fri-A-V-2-9 | Learning Mutual Correlation in Multimodal Transformer for Speech Emotion Recognition
+ Fri-A-V-3-1 | Compressing 1D Time-Channel Separable Convolutions Using Sparse Random Ternary Matrices
+ Fri-A-V-3-10 | Collaborative Training of Acoustic Encoders for Speech Recognition
+ Fri-A-V-3-11 | Efficient Conformer with Prob-Sparse Attention Mechanism for End-to-End Speech Recognition
+ Fri-A-V-3-12 | The Energy and Carbon Footprint of Training End-to-End Speech Recognizers
+ Fri-A-V-3-2 | Weakly Supervised Construction of ASR Systems from Massive Video Data
+ Fri-A-V-3-3 | Broadcasted Residual Learning for Efficient Keyword Spotting
+ Fri-A-V-3-4 | CoDERT: Distilling Encoder Representations with Co-Learning for Transducer-Based Speech Recognition
+ Fri-A-V-3-5 | Extremely Low Footprint End-to-End ASR System for Smart Device
+ Fri-A-V-3-6 | Dissecting User-Perceived Latency of On-Device E2E Speech Recognition
+ Fri-A-V-3-7 | Amortized Neural Networks for Low-Latency Speech Recognition
+ Fri-A-V-3-8 | Tied & Reduced RNN-T Decoder
+ Fri-A-V-3-9 | PQK: Model Compression via Pruning, Quantization, and Knowledge Distillation
+ Fri-A-V-4-1 | Graph-Based Label Propagation for Semi-Supervised Speaker Identification
+ Fri-A-V-4-10 | An Integrated Framework for Two-Pass Personalized Voice Trigger
+ Fri-A-V-4-11 | Masked Proxy Loss for Text-Independent Speaker Verification
+ Fri-A-V-4-2 | Fusion of Embeddings Networks for Robust Combination of Text Dependent and Independent Speaker Recognition
+ Fri-A-V-4-3 | A Generative Model for Duration-Dependent Score Calibration
+ Fri-A-V-4-4 | Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition
+ Fri-A-V-4-5 | Multi-Channel Speaker Verification for Single and Multi-Talker Speech
+ Fri-A-V-4-6 | Chronological Self-Training for Real-Time Speaker Diarization
+ Fri-A-V-4-7 | Adaptive Margin Circle Loss for Speaker Verification
+ Fri-A-V-4-8 | Presentation Matters: Evaluating Speaker Identification Tasks
+ Fri-A-V-4-9 | Automatic Error Correction for Speaker Embedding Learning with Noisy Labels
+ Fri-A-V-5-1 | STYLER: Style Factor Modeling with Rapidity and Robustness via Speech Decomposition for Expressive and Controllable Neural Text to Speech
+ Fri-A-V-5-10 | Improving Performance of Seen and Unseen Speech Style Transfer in End-to-End Neural TTS
+ Fri-A-V-5-11 | Synthesis of Expressive Speaking Styles with Limited Training Data in a Multi-Speaker, Prosody-Controllable Sequence-to-Sequence Architecture
+ Fri-A-V-5-2 | Reinforcement Learning for Emotional Text-to-Speech Synthesis with Improved Emotion Discriminability
+ Fri-A-V-5-3 | Emotional Prosody Control for Speech Generation
+ Fri-A-V-5-4 | Controllable Context-Aware Conversational Speech Synthesis
+ Fri-A-V-5-5 | Expressive Text-to-Speech Using Style Tag
+ Fri-A-V-5-6 | Adaptive Text to Speech for Spontaneous Style
+ Fri-A-V-5-7 | Towards Multi-Scale Style Control for Expressive Speech Synthesis
+ Fri-A-V-5-8 | Cross-Speaker Style Transfer with Prosody Bottleneck in Neural Speech Synthesis
+ Fri-A-V-5-9 | Fine-Grained Style Modeling, Transfer and Prediction in Text-to-Speech Synthesis via Phone-Level Content-Style Disentanglement
+ Fri-A-V-6-1 | Intent Detection and Slot Filling for Vietnamese
+ Fri-A-V-6-10 | Bi-Directional Joint Neural Networks for Intent Classification and Slot Filling
+ Fri-A-V-6-2 | Augmenting Slot Values and Contexts for Spoken Language Understanding with Pretrained Models
+ Fri-A-V-6-3 | The Impact of Intent Distribution Mismatch on Semi-Supervised Spoken Language Understanding
+ Fri-A-V-6-4 | Knowledge Distillation from BERT Transformer to Speech Transformer for Intent Classification
+ Fri-A-V-6-5 | Three-Module Modeling For End-to-End Spoken Language Understanding Using Pre-Trained DNN-HMM-Based Acoustic-Phonetic Model
+ Fri-A-V-6-6 | Speak or Chat with Me: End-to-End Spoken Language Understanding System with Flexible Inputs
+ Fri-A-V-6-7 | End-to-End Cross-Lingual Spoken Language Understanding Model with Multilingual Pretraining
+ Fri-A-V-6-8 | Factorization-Aware Training of Transformers for Natural Language Understanding on the Edge
+ Fri-A-V-6-9 | End-to-End Spoken Language Understanding for Generalized Voice Assistants
+ Fri-Keynote | Language Modeling and Artificial Intelligence
+ Fri-M-O-1-1 | Self-Attention Channel Combinator Frontend for End-to-End Multichannel Far-Field Speech Recognition
+ Fri-M-O-1-2 | ETLT 2021: Shared Task on Automatic Speech Recognition for Non-Native Children’s Speech
+ Fri-M-O-1-3 | Age-Invariant Training for End-to-End Child Speech Recognition Using Adversarial Multi-Task Learning
+ Fri-M-O-1-4 | Learning to Rank Microphones for Distant Speech Recognition
+ Fri-M-O-1-5 | Simulating Reading Mistakes for Child Speech Transformer-Based Phone Recognition
+ Fri-M-O-2-1 | Alternate Endings: Improving Prosody for Incremental Neural TTS with Predicted Future Text Input
+ Fri-M-O-2-2 | Exploring Emotional Prototypes in a High Dimensional TTS Latent Space
+ Fri-M-O-2-3 | Ctrl-P: Temporal Control of Prosodic Variation for Speech Synthesis
+ Fri-M-O-2-4 | ADEPT: A Dataset for Evaluating Prosody Transfer
+ Fri-M-O-2-5 | Prosodic Boundary Prediction Model for Vietnamese Text-To-Speech
+ Fri-M-O-3-1 | Many-Speakers Single Channel Speech Separation with Optimal Permutation Training
+ Fri-M-O-3-2 | Combating Reverberation in NTF-Based Speech Separation Using a Sub-Source Weighted Multichannel Wiener Filter and Linear Prediction
+ Fri-M-O-3-3 | A Hands-On Comparison of DNNs for Dialog Separation Using Transfer Learning from Music Source Separation
+ Fri-M-O-3-4 | GlobalPhone Mix-To-Separate Out of 2: A Multilingual 2000 Speakers Mixtures Database for Speech Separation
+ Fri-M-SS-1-1 | OpenASR20: An Open Challenge for Automatic Speech Recognition of Conversational Telephone Speech in Low-Resource Languages
+ Fri-M-SS-1-2 | Multitask Adaptation with Lattice-Free MMI for Multi-Genre Speech Recognition of Low Resource Languages
+ Fri-M-SS-1-3 | An Improved Wav2Vec 2.0 Pre-Training Approach Using Enhanced Local Dependency Modeling for Speech Recognition
+ Fri-M-SS-1-4 | Systems for Low-Resource Speech Recognition Tasks in Open Automatic Speech Recognition and Formosa Speech Recognition Challenges
+ Fri-M-SS-1-5 | The TNT Team System Descriptions of Cantonese and Mongolian for IARPA OpenASR20
+ Fri-M-SS-1-6 | Combining Hybrid and End-to-End Approaches for the OpenASR20 Challenge
+ Fri-M-SS-1-7 | One Size Does Not Fit All in Resource-Constrained ASR
+ Fri-M-V-1-1 | Cross-Linguistic Perception of the Japanese Singleton/Geminate Contrast: Korean, Mandarin and Mongolian Compared
+ Fri-M-V-1-10 | Transformer Based End-to-End Mispronunciation Detection and Diagnosis
+ Fri-M-V-1-11 | L1 Identification from L2 Speech Using Neural Spectrogram Analysis
+ Fri-M-V-1-2 | Detection of Lexical Stress Errors in Non-Native (L2) English with Data Augmentation and Attention
+ Fri-M-V-1-3 | Testing Acoustic Voice Quality Classification Across Languages and Speech Styles
+ Fri-M-V-1-4 | Acquisition of Prosodic Focus Marking by Three- to Six-Year-Old Children Learning Mandarin Chinese
+ Fri-M-V-1-5 | Adaptive Listening Difficulty Detection for L2 Learners Through Moderating ASR Resources
+ Fri-M-V-1-6 | F₀ Patterns of L2 English Speech by Mandarin Chinese Learners
+ Fri-M-V-1-7 | A Neural Network-Based Noise Compensation Method for Pronunciation Assessment
+ Fri-M-V-1-8 | Phonetic Distance and Surprisal in Multilingual Priming: Evidence from Slavic
+ Fri-M-V-1-9 | A Preliminary Study on Discourse Prosody Encoding in L1 and L2 English Spontaneous Narratives
+ Fri-M-V-2-1 | Leveraging Real-Time MRI for Illuminating Linguistic Velum Action
+ Fri-M-V-2-10 | Speakers Coarticulate Less When Facing Real and Imagined Communicative Difficulties: An Analysis of Read and Spontaneous Speech from the LUCID Corpus
+ Fri-M-V-2-11 | Developmental Changes of Vowel Acoustics in Adolescents
+ Fri-M-V-2-12 | Context and Co-Text Influence on the Accuracy Production of Italian L2 Non-Native Sounds
+ Fri-M-V-2-13 | A New Vowel Normalization for Sociophonetics
+ Fri-M-V-2-14 | The Pacific Expansion: Optimizing Phonetic Transcription of Archival Corpora
+ Fri-M-V-2-2 | Segmental Alignment of English Syllables with Singleton and Cluster Onsets
+ Fri-M-V-2-3 | Exploration of Welsh English Pre-Aspiration: How Wide-Spread is it?
+ Fri-M-V-2-4 | Revisiting Recall Effects of Filler Particles in German and English
+ Fri-M-V-2-5 | How Reliable Are Phonetic Data Collected Remotely? Comparison of Recording Devices and Environments on Acoustic Measurements
+ Fri-M-V-2-6 | A Cross-Dialectal Comparison of Apical Vowels in Beijing Mandarin, Northeastern Mandarin and Southwestern Mandarin: An EMA and Ultrasound Study
+ Fri-M-V-2-7 | Dissecting the Aero-Acoustic Parameters of Open Articulatory Transitions
+ Fri-M-V-2-8 | Quantifying Vocal Tract Shape Variation and its Acoustic Impact: A Geometric Morphometric Approach
+ Fri-M-V-2-9 | Speech Perception and Loanword Adaptations: The Case of Copy-Vowel Epenthesis
+ Fri-M-V-3-1 | FSR: Accelerating the Inference Process of Transducer-Based Models by Applying Fast-Skip Regularization
+ Fri-M-V-3-10 | Insights on Neural Representations for End-to-End Speech Recognition
+ Fri-M-V-3-11 | Sequence-Level Confidence Classifier for ASR Utterance Accuracy and Application to Acoustic Models
+ Fri-M-V-3-2 | LT-LM: A Novel Non-Autoregressive Language Model for Single-Shot Lattice Rescoring
+ Fri-M-V-3-3 | A Hybrid Seq-2-Seq ASR Design for On-Device and Server Applications
+ Fri-M-V-3-4 | VAD-Free Streaming Hybrid CTC/Attention ASR for Unsegmented Recording
+ Fri-M-V-3-5 | WeNet: Production Oriented Streaming and Non-Streaming End-to-End Speech Recognition Toolkit
+ Fri-M-V-3-6 | Cross-Modal Transformer-Based Neural Correction Models for Automatic Speech Recognition
+ Fri-M-V-3-7 | Deep Neural Network Calibration for E2E Speech Recognition System
+ Fri-M-V-3-8 | Residual Energy-Based Models for End-to-End Speech Recognition
+ Fri-M-V-3-9 | Multi-Task Learning for End-to-End ASR Word and Utterance Confidence with Deletion Prediction
+ Fri-M-V-4-1 | Unsupervised Learning of Disentangled Speech Content and Style Representation
+ Fri-M-V-4-2 | Label Embedding for Chinese Grapheme-to-Phoneme Conversion
+ Fri-M-V-4-3 | PDF: Polyphone Disambiguation in Chinese by Using FLAT
+ Fri-M-V-4-4 | Improving Polyphone Disambiguation for Mandarin Chinese by Combining Mix-Pooling Strategy and Window-Based Attention
+ Fri-M-V-4-5 | Polyphone Disambiguation in Mandarin Chinese with Semi-Supervised Learning
+ Fri-M-V-4-6 | A Neural-Network-Based Approach to Identifying Speakers in Novels
+ Fri-M-V-4-7 | UnitNet-Based Hybrid Speech Synthesis
+ Fri-M-V-4-8 | Dynamically Adaptive Machine Speech Chain Inference for TTS in Noisy Environment: Listen and Speak Louder
+ Fri-M-V-4-9 | LinearSpeech: Parallel Text-to-Speech with Linear Complexity
+ Fri-M-V-5-1 | An Agent for Competing with Humans in a Deceptive Game Based on Vocal Cues
+ Fri-M-V-5-10 | Automatic Detection of Shouted Speech Segments in Indian News Debates
+ Fri-M-V-5-11 | Generalized Spoofing Detection Inspired from Audio Generation Artifacts
+ Fri-M-V-5-12 | Overlapped Speech Detection Based on Spectral and Spatial Feature Fusion
+ Fri-M-V-5-2 | A Multi-Branch Deep Learning Network for Automated Detection of COVID-19
+ Fri-M-V-5-3 | RW-Resnet: A Novel Speech Anti-Spoofing Model Using Raw Waveform
+ Fri-M-V-5-4 | Fake Audio Detection in Resource-Constrained Settings Using Microfeatures
+ Fri-M-V-5-5 | Coughing-Based Recognition of Covid-19 with Spatial Attentive ConvLSTM Recurrent Neural Networks
+ Fri-M-V-5-6 | Knowledge Distillation for Singing Voice Detection
+ Fri-M-V-5-7 | Age Estimation with Speech-Age Model for Heterogeneous Speech Datasets
+ Fri-M-V-5-8 | Open-Set Audio Classification with Limited Training Resources Based on Augmentation Enhanced Variational Auto-Encoder GAN with Detection-Classification Joint Training
+ Fri-M-V-5-9 | Deep Spectral-Cepstral Fusion for Shouted and Normal Speech Classification
+ Fri-M-V-6-1 | Do Acoustic Word Embeddings Capture Phonological Similarity? An Empirical Study
+ Fri-M-V-6-10 | The 2020 Personalized Voice Trigger Challenge: Open Datasets, Evaluation Metrics, Baseline System and Results
+ Fri-M-V-6-11 | Auto-KWS 2021 Challenge: Task, Datasets, and Baselines
+ Fri-M-V-6-12 | Keyword Transformer: A Self-Attention Model for Keyword Spotting
+ Fri-M-V-6-13 | Teaching Keyword Spotters to Spot New Keywords with Limited Examples
+ Fri-M-V-6-2 | Paraphrase Label Alignment for Voice Application Retrieval in Spoken Language Understanding
+ Fri-M-V-6-3 | Personalized Keyphrase Detection Using Speaker and Environment Information
+ Fri-M-V-6-4 | Streaming Transformer for Hardware Efficient Voice Trigger Detection and False Trigger Mitigation
+ Fri-M-V-6-5 | Few-Shot Keyword Spotting in Any Language
+ Fri-M-V-6-6 | Text Anchor Based Metric Learning for Small-Footprint Keyword Spotting
+ Fri-M-V-6-7 | A Meta-Learning Approach for User-Defined Spoken Term Classification with Varying Classes and Examples
+ Fri-M-V-6-8 | Auxiliary Sequence Labeling Tasks for Disfluency Detection
+ Fri-M-V-6-9 | Energy-Friendly Keyword Spotting System Using Add-Based Convolution
+ Fri-M-V-7-1 | A Comparative Study on Recent Neural Spoofing Countermeasures for Synthetic Speech Detection
+ Fri-M-V-7-10 | Representation Learning to Classify and Detect Adversarial Attacks Against Speaker and Speech Recognition Systems
+ Fri-M-V-7-11 | An Empirical Study on Channel Effects for Synthetic Voice Spoofing Countermeasure Systems
+ Fri-M-V-7-12 | Channel-Wise Gated Res2Net: Towards Robust Detection of Synthetic Speech Attacks
+ Fri-M-V-7-13 | Partially-Connected Differentiable Architecture Search for Deepfake and Spoofing Detection
+ Fri-M-V-7-2 | An Initial Investigation for Detecting Partially Spoofed Audio
+ Fri-M-V-7-3 | Siamese Network with wav2vec Feature for Spoofing Speech Detection
+ Fri-M-V-7-4 | Cross-Database Replay Detection in Terminal-Dependent Speaker Verification
+ Fri-M-V-7-5 | The Effect of Silence and Dual-Band Fusion in Anti-Spoofing System
+ Fri-M-V-7-6 | Pairing Weak with Strong: Twin Models for Defending Against Adversarial Attack on Speaker Verification
+ Fri-M-V-7-7 | Attention-Based Convolutional Neural Network for ASV Spoofing Detection
+ Fri-M-V-7-8 | Voting for the Right Answer: Adversarial Defense for Speaker Verification
+ Fri-M-V-7-9 | Visualizing Classifier Adjacency Relations: A Case Study in Speaker Verification and Voice Anti-Spoofing
+ Fri-Survey | Child Language Acquisition Studied with Wearables
+ Thu-A-O-1-1 | Towards the Prediction of the Vocal Tract Shape from the Sequence of Phonemes to be Articulated
+ Thu-A-O-1-2 | Comparison of the Finite Element Method, the Multimodal Method and the Transmission-Line Model for the Computation of Vocal Tract Transfer Functions
+ Thu-A-O-1-3 | Effects of Time Pressure and Spontaneity on Phonotactic Innovations in German Dialogues
+ Thu-A-O-1-4 | Importance of Parasagittal Sensor Information in Tongue Motion Capture Through a Diphonic Analysis
+ Thu-A-O-1-5 | Learning Robust Speech Representation with an Articulatory-Regularized Variational Autoencoder
+ Thu-A-O-1-6 | Changes in Glottal Source Parameter Values with Light to Moderate Physical Load
+ Thu-A-O-2-1 | End-to-End Optimized Multi-Stage Vector Quantization of Spectral Envelopes for Speech and Audio Coding
+ Thu-A-O-2-2 | Fusion-Net: Time-Frequency Information Fusion Y-Network for Speech Enhancement
+ Thu-A-O-2-3 | N-MTTL SI Model: Non-Intrusive Multi-Task Transfer Learning-Based Speech Intelligibility Prediction Model with Scenery Classification
+ Thu-A-SS-1-1 | An Improved Single Step Non-Autoregressive Transformer for Automatic Speech Recognition
+ Thu-A-SS-1-10 | TalkNet: Non-Autoregressive Depth-Wise Separable Convolutional Model for Speech Synthesis
+ Thu-A-SS-1-11 | WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis
+ Thu-A-SS-1-12 | Align-Denoise: Single-Pass Non-Autoregressive Speech Recognition
+ Thu-A-SS-1-13 | VAENAR-TTS: Variational Auto-Encoder Based Non-AutoRegressive Text-to-Speech Synthesis
+ Thu-A-SS-1-2 | Multi-Speaker ASR Combining Non-Autoregressive Conformer CTC and Conditional Speaker Chain
+ Thu-A-SS-1-3 | Pushing the Limits of Non-Autoregressive Speech Recognition
+ Thu-A-SS-1-4 | Non-Autoregressive Predictive Coding for Learning Speech Representations from Local Dependencies
+ Thu-A-SS-1-5 | Relaxing the Conditional Independence Assumption of CTC-Based ASR by Conditioning on Intermediate Predictions
+ Thu-A-SS-1-6 | Toward Streaming ASR with Non-Autoregressive Insertion-Based Model
+ Thu-A-SS-1-7 | Layer Pruning on Demand with Intermediate CTC
+ Thu-A-SS-1-8 | Real-Time End-to-End Monaural Multi-Speaker Speech Recognition
+ Thu-A-SS-1-9 | Streaming End-to-End ASR Based on Blockwise Non-Autoregressive Models
+ Thu-A-SS-2-1 | Detecting Cognitive Decline Using Speech Only: The ADReSSo Challenge
+ Thu-A-SS-2-10 | Automatic Detection and Assessment of Alzheimer Disease Using Speech and Language Technologies in Low-Resource Scenarios
+ Thu-A-SS-2-11 | Automatic Detection of Alzheimer’s Disease Using Spontaneous Speech Only
+ Thu-A-SS-2-12 | Modular Multi-Modal Attention Network for Alzheimer’s Disease Detection Using Patient Audio and Language Data
+ Thu-A-SS-2-2 | Influence of the Interviewer on the Automatic Assessment of Alzheimer’s Disease in the Context of the ADReSSo Challenge
+ Thu-A-SS-2-3 | WavBERT: Exploiting Semantic and Non-Semantic Speech Using Wav2vec and BERT for Dementia Detection
+ Thu-A-SS-2-4 | Alzheimer Disease Recognition Using Speech-Based Embeddings From Pre-Trained Models
+ Thu-A-SS-2-5 | Comparing Acoustic-Based Approaches for Alzheimer’s Disease Detection
+ Thu-A-SS-2-6 | Alzheimer’s Disease Detection from Spontaneous Speech Through Combining Linguistic Complexity and (Dis)Fluency Features with Pretrained Language Models
+ Thu-A-SS-2-7 | Using the Outputs of Different Automatic Speech Recognition Paradigms for Acoustic- and BERT-Based Alzheimer’s Dementia Detection Through Spontaneous Speech
+ Thu-A-SS-2-8 | Tackling the ADRESSO Challenge 2021: The MUET-RMIT System for Alzheimer’s Dementia Recognition from Spontaneous Speech
+ Thu-A-SS-2-9 | Alzheimer’s Dementia Recognition Using Acoustic, Lexical, Disfluency and Speech Pause Features Robust to Noisy Inputs
+ Thu-A-V-1-1 | Temporal Context in Speech Emotion Recognition
+ Thu-A-V-1-10 | Acoustic Features and Neural Representations for Categorical Emotion Recognition from Speech
+ Thu-A-V-1-11 | Leveraging Pre-Trained Language Model for Speech Sentiment Analysis
+ Thu-A-V-1-2 | Learning Fine-Grained Cross Modality Excitement for Speech Emotion Recognition
+ Thu-A-V-1-3 | Automatic Analysis of the Emotional Content of Speech in Daylong Child-Centered Recordings from a Neonatal Intensive Care Unit
+ Thu-A-V-1-4 | Multimodal Sentiment Analysis with Temporal Modality Attention
+ Thu-A-V-1-5 | Stochastic Process Regression for Cross-Cultural Speech Emotion Recognition
+ Thu-A-V-1-6 | Acted vs. Improvised: Domain Adaptation for Elicitation Approaches in Audio-Visual Emotion Recognition
+ Thu-A-V-1-7 | Emotion Recognition from Speech Using wav2vec 2.0 Embeddings
+ Thu-A-V-1-8 | Graph Isomorphism Network for Speech Emotion Recognition
+ Thu-A-V-1-9 | Applying TDNN Architectures for Analyzing Duration Dependencies on Speech Emotion Recognition
+ Thu-A-V-2-1 | Cross-Domain Speech Recognition with Unsupervised Character-Level Distribution Matching
+ Thu-A-V-2-10 | Improving Multilingual Transformer Transducer Models by Reducing Language Confusions
+ Thu-A-V-2-11 | Arabic Code-Switching Speech Recognition Using Monolingual Data
+ Thu-A-V-2-2 | Large-Scale Pre-Training of End-to-End Multi-Talker ASR for Meeting Transcription with Single Distant Microphone
+ Thu-A-V-2-3 | On Minimum Word Error Rate Training of the Hybrid Autoregressive Transducer
+ Thu-A-V-2-4 | Reducing Streaming ASR Model Delay with Self Alignment
+ Thu-A-V-2-5 | Reduce and Reconstruct: ASR for Low-Resource Phonetic Languages
+ Thu-A-V-2-6 | Knowledge Distillation Based Training of Universal ASR Source Models for Cross-Lingual Transfer
+ Thu-A-V-2-7 | Listen with Intent: Improving Speech Recognition with Audio-to-Intent Front-End
+ Thu-A-V-2-8 | Exploring Targeted Universal Adversarial Perturbations to End-to-End ASR Models
+ Thu-A-V-2-9 | Earnings-21: A Practical Benchmark for ASR in the Wild
+ Thu-A-V-3-1 | Online Blind Audio Source Separation Using Recursive Expectation-Maximization
+ Thu-A-V-3-10 | Improved Speech Separation with Time-and-Frequency Cross-Domain Feature Selection
+ Thu-A-V-3-11 | Robust Speaker Extraction Network Based on Iterative Refined Adaptation
+ Thu-A-V-3-12 | Neural Speaker Extraction with Speaker-Speech Cross-Attention Network
+ Thu-A-V-3-13 | Deep Audio-Visual Speech Separation Based on Facial Motion
+ Thu-A-V-3-2 | Empirical Analysis of Generalized Iterative Speech Separation Networks
+ Thu-A-V-3-3 | Graph-PIT: Generalized Permutation Invariant Training for Continuous Separation of Arbitrary Numbers of Speakers
+ Thu-A-V-3-4 | Teacher-Student MixIT for Unsupervised and Semi-Supervised Speech Separation
+ Thu-A-V-3-5 | Few-Shot Learning of New Sound Classes for Target Sound Extraction
+ Thu-A-V-3-6 | Binaural Speech Separation of Moving Speakers With Preserved Spatial Cues
+ Thu-A-V-3-7 | AvaTr: One-Shot Speaker Extraction with Transformers
+ Thu-A-V-3-8 | Vocal Harmony Separation Using Time-Domain Neural Networks
+ Thu-A-V-3-9 | Speaker Verification-Based Evaluation of Single-Channel Speech Separation
+ Thu-A-V-4-1 | LEAP Submission for the Third DIHARD Diarization Challenge
+ Thu-A-V-4-2 | Investigation of Spatial-Acoustic Features for Overlapping Speech Detection in Multiparty Meetings
+ Thu-A-V-4-3 | Target-Speaker Voice Activity Detection with Improved i-Vector Estimation for Unknown Number of Speaker
+ Thu-A-V-4-4 | ECAPA-TDNN Embeddings for Speaker Diarization
+ Thu-A-V-4-5 | Advances in Integration of End-to-End Neural and Clustering-Based Diarization for Real Conversational Speech
+ Thu-A-V-4-6 | The Third DIHARD Diarization Challenge
+ Thu-A-V-4-7 | Robust End-to-End Speaker Diarization with Conformer and Additive Margin Penalty
+ Thu-A-V-4-8 | Anonymous Speaker Clusters: Making Distinctions Between Anonymised Speech Recordings with Clustering Interface
+ Thu-A-V-4-9 | Speaker Diarization Using Two-Pass Leave-One-Out Gaussian PLDA Clustering of DNN Embeddings
+ Thu-A-V-5-1 | Federated Learning with Dynamic Transformer for Text to Speech
+ Thu-A-V-5-10 | Reinforce-Aligner: Reinforcement Alignment Search for Robust End-to-End Text-to-Speech
+ Thu-A-V-5-11 | Triple M: A Practical Text-to-Speech Synthesis System with Multi-Guidance Attention and Multi-Band Multi-Time LPCNet
+ Thu-A-V-5-12 | SC-GlowTTS: An Efficient Zero-Shot Multi-Speaker Text-To-Speech Model
+ Thu-A-V-5-2 | LiteTTS: A Lightweight Mel-Spectrogram-Free Text-to-Wave Synthesizer Based on Generative Adversarial Networks
+ Thu-A-V-5-3 | Zero-Shot Text-to-Speech for Text-Based Insertion in Audio Narration
+ Thu-A-V-5-4 | Diff-TTS: A Denoising Diffusion Model for Text-to-Speech
+ Thu-A-V-5-5 | Hierarchical Context-Aware Transformers for Non-Autoregressive Text to Speech
+ Thu-A-V-5-6 | Speech Resynthesis from Discrete Disentangled Self-Supervised Representations
+ Thu-A-V-5-7 | A Learned Conditional Prior for the VAE Acoustic Space of a TTS System
+ Thu-A-V-5-8 | A Universal Multi-Speaker Multi-Style Text-to-Speech via Disentangled Representation Learning Based on Rényi Divergence Minimization
+ Thu-A-V-5-9 | Relational Data Selection for Data Augmentation of Speaker-Dependent Multi-Band MelGAN Vocoder
+ Thu-A-V-6-1 | Spoken ObjectNet: A Bias-Controlled Spoken Caption Dataset
+ Thu-A-V-6-10 | Europarl-ASR: A Large Corpus of Parliamentary Debates for Streaming ASR Benchmarking and Speech Data Filtering/Verbatimization
+ Thu-A-V-6-11 | Towards Automatic Speech to Sign Language Generation
+ Thu-A-V-6-12 | kosp2e: Korean Speech to English Translation Corpus
+ Thu-A-V-6-13 | speechocean762: An Open-Source Non-Native English Speech Corpus for Pronunciation Assessment
+ Thu-A-V-6-2 | The Multilingual TEDx Corpus for Speech Recognition and Translation
+ Thu-A-V-6-3 | Tusom2021: A Phonetically Transcribed Speech Dataset from an Endangered Language for Universal Phone Recognition Experiments
+ Thu-A-V-6-4 | AISHELL-4: An Open Source Dataset for Speech Enhancement, Separation, Recognition and Speaker Diarization in Conference Scenario
+ Thu-A-V-6-5 | GigaSpeech: An Evolving, Multi-Domain ASR Corpus with 10,000 Hours of Transcribed Audio
+ Thu-A-V-6-6 | Look Who’s Talking: Active Speaker Detection in the Wild
+ Thu-A-V-6-7 | AusKidTalk: An Auditory-Visual Corpus of 3- to 12-Year-Old Australian Children’s Speech
+ Thu-A-V-6-8 | Human-in-the-Loop Efficiency Analysis for Binary Classification in Edyson
+ Thu-A-V-6-9 | Annotation Confidence vs. Training Sample Size: Trade-Off Solution for Partially-Continuous Categorical Emotion Recognition
+ Thu-Keynote | Adaptive Listening to Everyday Soundscapes
+ Thu-M-O-1-1 | Self-Paced Ensemble Learning for Speech and Audio Classification
+ Thu-M-O-1-2 | Knowledge Distillation for Streaming Transformer–Transducer
+ Thu-M-O-1-3 | Multi-Encoder Learning and Stream Fusion for Transformer-Based End-to-End Automatic Speech Recognition
+ Thu-M-O-1-4 | Conditional Independence for Pretext Task Selection in Self-Supervised Speech Representation Learning
+ Thu-M-O-1-5 | Investigating Methods to Improve Language Model Integration for Attention-Based Encoder-Decoder ASR Models
+ Thu-M-O-1-6 | Comparing CTC and LFMMI for Out-of-Domain Adaptation of wav2vec 2.0 Acoustic Model
+ Thu-M-O-2-1 | Speaker Attentive Speech Emotion Recognition
+ Thu-M-O-2-2 | Separation of Emotional and Reconstruction Embeddings on Ladder Network to Improve Speech Emotion Recognition Robustness in Noisy Conditions
+ Thu-M-O-2-3 | M³: MultiModal Masking Applied to Sentiment Analysis
+ Thu-M-O-3-1 | The CSTR System for Multilingual and Code-Switching ASR Challenges for Low Resource Indian Languages
+ Thu-M-O-3-2 | Acoustic Data-Driven Subword Modeling for End-to-End Speech Recognition
+ Thu-M-O-3-3 | Equivalence of Segmental and Neural Transducer Modeling: A Proof of Concept
+ Thu-M-O-3-4 | Modeling Dialectal Variation for Swiss German Automatic Speech Recognition
+ Thu-M-O-3-5 | Out-of-Vocabulary Words Detection with Attention and CTC Alignments in an End-to-End ASR System
+ Thu-M-O-3-6 | Training Hybrid Models on Noisy Transliterated Transcripts for Code-Switched Speech Recognition
+ Thu-M-S&T-1-1 | MoM: Minutes of Meeting Bot
+ Thu-M-S&T-1-2 | Articulatory Data Recorder: A Framework for Real-Time Articulatory Data Recording
+ Thu-M-S&T-1-3 | The INGENIOUS Multilingual Operations App
+ Thu-M-S&T-1-4 | Digital Einstein Experience: Fast Text-to-Speech for Conversational AI
+ Thu-M-S&T-1-5 | Live Subtitling for BigBlueButton with Open-Source Software
+ Thu-M-S&T-1-6 | Expressive Latvian Speech Synthesis for Dialog Systems
+ Thu-M-S&T-1-7 | ViSTAFAE: A Visual Speech-Training Aid with Feedback of Articulatory Efforts
+ Thu-M-SS-1-1 | Oriental Language Recognition (OLR) 2020: Summary and Analysis
+ Thu-M-SS-1-2 | Language Recognition on Unknown Conditions: The LORIA-Inria-MULTISPEECH System for AP20-OLR Challenge
+ Thu-M-SS-1-3 | Dynamic Multi-Scale Convolution for Dialect Identification
+ Thu-M-SS-1-4 | An End-to-End Dialect Identification System with Transfer Learning from a Multilingual Automatic Speech Recognition Model
+ Thu-M-SS-1-5 | Language Recognition Based on Unsupervised Pretrained Models
+ Thu-M-SS-1-6 | Additive Phoneme-Aware Margin Softmax Loss for Language Recognition
+ Thu-M-SS-2-1 | Towards an Accent-Robust Approach for ATC Communications Transcription
+ Thu-M-SS-2-2 | Detecting English Speech in the Air Traffic Control Voice Communication
+ Thu-M-SS-2-3 | Robust Command Recognition for Lithuanian Air Traffic Control Tower Utterances
+ Thu-M-SS-2-4 | Contextual Semi-Supervised Learning: An Approach to Leverage Air-Surveillance and Untranscribed ATC Data in ASR Systems
+ Thu-M-SS-2-5 | Boosting of Contextual Information in ASR for Air-Traffic Call-Sign Recognition
+ Thu-M-SS-2-6 | Modeling the Effect of Military Oxygen Masks on Speech Characteristics
+ Thu-M-V-1-1 | Speech Intelligibility of Dysarthric Speech: Human Scores and Acoustic-Phonetic Features
+ Thu-M-V-1-10 | Unsupervised Domain Adaptation for Dysarthric Speech Detection via Domain Adversarial Training and Mutual Information Minimization
+ Thu-M-V-1-11 | Source and Vocal Tract Cues for Speech-Based Classification of Patients with Parkinson’s Disease and Healthy Subjects
+ Thu-M-V-1-12 | CLAC: A Speech Corpus of Healthy English Speakers
+ Thu-M-V-1-2 | Analyzing Short Term Dynamic Speech Features for Understanding Behavioral Traits of Children with Autism Spectrum Disorder
+ Thu-M-V-1-3 | Vocalization Recognition of People with Profound Intellectual and Multiple Disabilities (PIMD) Using Machine Learning Algorithms
+ Thu-M-V-1-4 | Phonetic Complexity, Speech Accuracy and Intelligibility Assessment of Italian Dysarthric Speech
+ Thu-M-V-1-5 | Detection of Consonant Errors in Disordered Speech Based on Consonant-Vowel Segment Embedding
+ Thu-M-V-1-6 | Assessing Posterior-Based Mispronunciation Detection on Field-Collected Recordings from Child Speech Therapy Sessions
+ Thu-M-V-1-7 | Identifying Cognitive Impairment Using Sentence Representation Vectors
+ Thu-M-V-1-8 | Parental Spoken Scaffolding and Narrative Skills in Crowd-Sourced Storytelling Samples of Young Children
+ Thu-M-V-1-9 | Uncertainty-Aware COVID-19 Detection from Imbalanced Sound Data
+ Thu-M-V-2-1 | Direct Multimodal Few-Shot Learning of Speech and Images
+ Thu-M-V-2-10 | End-to-End Audio-Visual Speech Recognition for Overlapping Speech
+ Thu-M-V-2-11 | Audio-Visual Multi-Talker Speech Recognition in a Cocktail Party
+ Thu-M-V-2-2 | Talk, Don’t Write: A Study of Direct Speech-Based Image Retrieval
+ Thu-M-V-2-3 | A Fast Discrete Two-Step Learning Hashing for Scalable Cross-Modal Retrieval
+ Thu-M-V-2-4 | Cross-Modal Knowledge Distillation Method for Automatic Cued Speech Recognition
+ Thu-M-V-2-5 | Attention-Based Keyword Localisation in Speech Using Visual Grounding
+ Thu-M-V-2-6 | Evaluation of Audio-Visual Alignments in Visually Grounded Speech Models
+ Thu-M-V-2-7 | Automatic Lip-Reading with Hierarchical Pyramidal Convolution and Self-Attention for Image Sequences with No Word Boundaries
+ Thu-M-V-2-8 | Cascaded Multilingual Audio-Visual Learning from Videos
+ Thu-M-V-2-9 | LiRA: Learning Visual Speech Representations from Audio Through Self-Supervision
+ Thu-M-V-3-1 | Ultra Fast Speech Separation Model with Teacher Student Learning
+ Thu-M-V-3-10 | Implicit Filter-and-Sum Network for End-to-End Multi-Channel Speech Separation
+ Thu-M-V-3-11 | Generalized Spatio-Temporal RNN Beamformer for Target Speech Separation
+ Thu-M-V-3-2 | Group Delay Based Re-Weighted Sparse Recovery Algorithms for Robust and High-Resolution Source Separation in DOA Framework
+ Thu-M-V-3-3 | Continuous Speech Separation Using Speaker Inventory for Long Recording
+ Thu-M-V-3-4 | Crossfire Conditional Generative Adversarial Networks for Singing Voice Extraction
+ Thu-M-V-3-5 | End-to-End Speech Separation Using Orthogonal Representation in Complex and Real Time-Frequency Domain
+ Thu-M-V-3-6 | Efficient and Stable Adversarial Learning Using Unpaired Data for Unsupervised Multichannel Speech Separation
+ Thu-M-V-3-7 | Stabilizing Label Assignment for Speech Separation by Self-Supervised Pre-Training
+ Thu-M-V-3-8 | Dual-Path Filter Network: Speaker-Aware Modeling for Speech Separation
+ Thu-M-V-3-9 | Investigation of Practical Aspects of Single Channel Speech Separation for ASR
+ Thu-M-V-4-1 | End-to-End Neural Diarization: From Transformer to Conformer
+ Thu-M-V-4-2 | Three-Class Overlapped Speech Detection Using a Convolutional Recurrent Neural Network
+ Thu-M-V-4-3 | Online Speaker Diarization Equipped with Discriminative Modeling and Guided Inference
+ Thu-M-V-4-4 | Semi-Supervised Training with Pseudo-Labeling for End-To-End Neural Diarization
+ Thu-M-V-4-5 | Adapting Speaker Embeddings for Speaker Diarisation
+ Thu-M-V-4-6 | Scenario-Dependent Speaker Diarization for DIHARD-III Challenge
+ Thu-M-V-4-7 | End-To-End Speaker Segmentation for Overlap-Aware Resegmentation
+ Thu-M-V-4-8 | Online Streaming End-to-End Neural Diarization Handling Overlapping Speech and Flexible Numbers of Speakers
+ Thu-M-V-4-9 | A Thousand Words are Worth More Than One Recording: //Word-Embedding// Based Speaker Change Detection
+ Thu-M-V-5-1 | Phrase Break Prediction with Bidirectional Encoder Representations in Japanese Text-to-Speech Synthesis
+ Thu-M-V-5-2 | Improving Multi-Speaker TTS Prosody Variance with a Residual Encoder and Normalizing Flows
+ Thu-M-V-5-3 | Rich Prosody Diversity Modelling with Phone-Level Mixture Density Network
+ Thu-M-V-5-4 | Phoneme Duration Modeling Using Speech Rhythm-Based Speaker Embeddings for Multi-Speaker Speech Synthesis
+ Thu-M-V-5-5 | Fine-Grained Prosody Modeling in Neural Speech Synthesis Using ToBI Representation
+ Thu-M-V-5-6 | Intra-Sentential Speaking Rate Control in Neural Text-To-Speech for Automatic Dubbing
+ Thu-M-V-5-7 | Applying the Information Bottleneck Principle to Prosodic Representation Learning
+ Thu-M-V-5-8 | A Prototypical Network Approach for Evaluating Generated Emotional Speech
+ Thu-M-V-6-1 | A Simplified Model for the Vocal Tract of [s] with Inclined Incisors
+ Thu-M-V-6-2 | Vocal-Tract Models to Visualize the Airstream of Human Breath and Droplets While Producing Speech
+ Thu-M-V-6-3 | Using Transposed Convolution for Articulatory-to-Acoustic Conversion from Real-Time MRI Data
+ Thu-M-V-6-4 | Comparison Between Lumped-Mass Modeling and Flow Simulation of the Reed-Type Artificial Vocal Fold
+ Thu-M-V-6-5 | Inhalations in Speech: Acoustic and Physiological Characteristics
+ Thu-M-V-6-6 | Model-Based Exploration of Linking Between Vowel Articulatory Space and Acoustic Space
+ Thu-M-V-6-7 | Take a Breath: Respiratory Sounds Improve Recollection in Synthetic Speech
+ Thu-M-V-6-8 | Modeling Sensorimotor Adaptation in Speech Through Alterations to Forward and Inverse Models
+ Thu-M-V-6-9 | Mixture of Orthogonal Sequences Made from Extended Time-Stretched Pulses Enables Measurement of Involuntary Voice Fundamental Frequency Response to Pitch Perturbation
+ Thu-M-V-7-1 | Contextualized Attention-Based Knowledge Transfer for Spoken Conversational Question Answering
+ Thu-M-V-7-2 | Injecting Descriptive Meta-Information into Pre-Trained Language Models with Hypernetworks
+ Thu-M-V-7-3 | Causal Confusion Reduction for Robust Multi-Domain Dialogue Policy
+ Thu-M-V-7-4 | Timing Generating Networks: Neural Network Based Precise Turn-Taking Timing Prediction in Multiparty Conversation
+ Thu-M-V-7-5 | Human-to-Human Conversation Dataset for Learning Fine-Grained Turn-Taking Action
+ Thu-M-V-7-6 | PhonemeBERT: Joint Language Modelling of Phoneme Sequence and ASR Transcript
+ Thu-M-V-7-7 | Joint Retrieval-Extraction Training for Evidence-Aware Dialog Response Selection
+ Thu-M-V-7-8 | Adapting Long Context NLM for ASR Rescoring in Conversational Agents
+ Thu-Survey | Learning Speech Models from Multi-Modal Data
+ Tue-A-O-1-1 | Leveraging Speaker Attribute Information Using Multi Task Learning for Speaker Verification and Diarization
+ Tue-A-O-1-2 | Spine2Net: SpineNet with Res2Net and Time-Squeeze-and-Excitation Blocks for Speaker Recognition
+ Tue-A-O-1-3 | Speaker Embeddings by Modeling Channel-Wise Correlations
+ Tue-A-O-1-4 | Multi-Task Neural Network for Robust Multiple Speaker Embedding Extraction
+ Tue-A-O-1-5 | ICSpk: Interpretable Complex Speaker Embedding Extractor from Raw Waveform
+ Tue-A-O-2-1 | Prosodic Disambiguation Using Chironomic Stylization of Intonation with Native and Non-Native Speakers
+ Tue-A-O-2-2 | Variation in Perceptual Sensitivity and Compensation for Coarticulation Across Adult and Child Naturally-Produced and TTS Voices
+ Tue-A-O-2-3 | Extracting Different Levels of Speech Information from EEG Using an LSTM-Based Model
+ Tue-A-O-2-4 | Word Competition: An Entropy-Based Approach in the DIANA Model of Human Word Comprehension
+ Tue-A-O-2-5 | Time-to-Event Models for Analyzing Reaction Time Sequences
+ Tue-A-O-2-6 | Models of Reaction Times in Auditory Lexical Decision: RTonset versus RToffset
+ Tue-A-S&T-1-1 | Application for Detecting Depression, Parkinson’s Disease and Dysphonic Speech
+ Tue-A-S&T-1-2 | Beey: More Than a Speech-to-Text Editor
+ Tue-A-S&T-1-3 | Downsizing of Vocal-Tract Models to Line up Variations and Reduce Manufacturing Costs
+ Tue-A-S&T-1-4 | ROXANNE Research Platform: Automate Criminal Investigations
+ Tue-A-S&T-1-5 | The LIUM Human Active Correction Platform for Speaker Diarization
+ Tue-A-S&T-1-6 | On-Device Streaming Transformer-Based End-to-End Speech Recognition
+ Tue-A-S&T-1-7 | Advanced Semi-Blind Speaker Extraction and Tracking Implemented in Experimental Device with Revolving Dense Microphone Array
+ Tue-A-SS-1-1 | Privacy-Preserving Voice Anti-Spoofing Using Secure Multi-Party Computation
+ Tue-A-SS-1-2 | Configurable Privacy-Preserving Automatic Speech Recognition
+ Tue-A-SS-1-3 | Adjunct-Emeritus Distillation for Semi-Supervised Language Model Adaptation
+ Tue-A-SS-1-4 | Communication-Efficient Agnostic Federated Averaging
+ Tue-A-SS-1-5 | Privacy-Preserving Feature Extraction for Cloud-Based Wake Word Verification
+ Tue-A-SS-1-6 | PATE-AAE: Incorporating Adversarial Autoencoder into Private Aggregation of Teacher Ensembles for Spoken Command Classification
+ Tue-A-SS-1-7 | Continual Learning for Fake Audio Detection
+ Tue-A-SS-1-8 | Evaluating the Vulnerability of End-to-End Automatic Speech Recognition Models to Membership Inference Attacks
+ Tue-A-SS-1-9 | SynthASR: Unlocking Synthetic Data for Speech Recognition
+ Tue-A-SS-2-1 | DiCOVA Challenge: Dataset, Task, and Baseline System for COVID-19 Diagnosis Using Acoustics
+ Tue-A-SS-2-10 | Contrastive Learning of Cough Descriptors for Automatic COVID-19 Preliminary Diagnosis
+ Tue-A-SS-2-11 | Investigating Feature Selection and Explainability for COVID-19 Diagnostics from Cough Sounds
+ Tue-A-SS-2-2 | PANACEA Cough Sound-Based Diagnosis of COVID-19 for the DiCOVA 2021 Challenge
+ Tue-A-SS-2-3 | Recognising Covid-19 from Coughing Using Ensembles of SVMs and LSTMs with Handcrafted and Deep Audio Features
+ Tue-A-SS-2-4 | Detecting COVID-19 from Audio Recording of Coughs Using Random Forests and Support Vector Machines
+ Tue-A-SS-2-5 | Diagnosis of COVID-19 Using Auditory Acoustic Cues
+ Tue-A-SS-2-6 | Classification of COVID-19 from Cough Using Autoregressive Predictive Coding Pretraining and Spectral Data Augmentation
+ Tue-A-SS-2-7 | The DiCOVA 2021 Challenge  An Encoder-Decoder Approach for COVID-19 Recognition from Coughing Audio
+ Tue-A-SS-2-8 | COVID-19 Detection from Spectral Features on the DiCOVA Dataset
+ Tue-A-SS-2-9 | Cough-Based COVID-19 Detection with Contextual Attention Convolutional Neural Networks and Gender Information
+ Tue-A-V-1-1 | SpecMix : A Mixed Sample Data Augmentation Method for Training with Time-Frequency Domain Features
+ Tue-A-V-1-10 | Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers
+ Tue-A-V-1-11 | Variational Information Bottleneck for Effective Low-Resource Audio Classification
+ Tue-A-V-1-12 | Improving Weakly Supervised Sound Event Detection with Self-Supervised Auxiliary Tasks
+ Tue-A-V-1-13 | Acoustic Event Detection with Classifier Chains
+ Tue-A-V-1-2 | SpecAugment++: A Hidden Space Data Augmentation Method for Acoustic Scene Classification
+ Tue-A-V-1-3 | An Effective Mutual Mean Teaching Based Domain Adaptation Method for Sound Event Detection
+ Tue-A-V-1-5 | Acoustic Scene Classification Using Kervolution-Based SubSpectralNet
+ Tue-A-V-1-6 | Event Specific Attention for Polyphonic Sound Event Detection
+ Tue-A-V-1-7 | AST: Audio Spectrogram Transformer
+ Tue-A-V-1-8 | Shallow Convolution-Augmented Transformer with Differentiable Neural Computer for Low-Complexity Classification of Variable-Length Acoustic Scene
+ Tue-A-V-1-9 | An Evaluation of Data Augmentation Methods for Sound Scene Geotagging
+ Tue-A-V-2-1 | Segment and Tone Production in Continuous Speech of Hearing and Hearing-Impaired Children
+ Tue-A-V-2-10 | Investigating Speech Reconstruction for Laryngectomees for Silent Speech Interfaces
+ Tue-A-V-2-2 | Effect of Carrier Bandwidth on Understanding Mandarin Sentences in Simulated Electric-Acoustic Hearing
+ Tue-A-V-2-3 | A Comparative Study of Different EMG Features for Acoustics-to-EMG Mapping
+ Tue-A-V-2-4 | Image-Based Assessment of Jaw Parameters and Jaw Kinematics for Articulatory Simulation: Preliminary Results
+ Tue-A-V-2-5 | An Attention Self-Supervised Contrastive Learning Based Three-Stage Model for Hand Shape Feature Representation in Cued Speech
+ Tue-A-V-2-6 | Remote Smartphone-Based Speech Collection: Acceptance and Barriers in Individuals with Major Depressive Disorder
+ Tue-A-V-2-7 | An Automatic, Simple Ultrasound Biofeedback Parameter for Distinguishing Accurate and Misarticulated Rhotic Syllables
+ Tue-A-V-2-8 | Silent versus Modal Multi-Speaker Speech Recognition from Ultrasound and Video
+ Tue-A-V-2-9 | RaSSpeR: Radar-Based Silent Speech Recognition
+ Tue-A-V-3-1 | LACOPE: Latency-Constrained Pitch Estimation for Speech Enhancement
+ Tue-A-V-3-10 | Minimum-Norm Differential Beamforming for Linear Array with Directional Microphones
+ Tue-A-V-3-2 | Alpha-Stable Autoregressive Fast Multichannel Nonnegative Matrix Factorization for Joint Speech Enhancement and Dereverberation
+ Tue-A-V-3-3 | Microphone Array Generalization for Multichannel Narrowband Deep Speech Enhancement
+ Tue-A-V-3-4 | Multiple Sound Source Localization Based on Interchannel Phase Differences in All Frequencies with Spectral Masks
+ Tue-A-V-3-5 | Cancellation of Local Competing Speaker with Near-Field Localization for Distributed ad-hoc Sensor Network
+ Tue-A-V-3-6 | A Deep Learning Method to Multi-Channel Active Noise Control
+ Tue-A-V-3-7 | Clarity-2021 Challenges: Machine Learning Challenges for Advancing Hearing Aid Processing
+ Tue-A-V-3-8 | Optimising Hearing Aid Fittings for Speech in Noise with a Differentiable Hearing Loss Model
+ Tue-A-V-3-9 | Explaining Deep Learning Models for Speech Enhancement
+ Tue-A-V-4-1 | Improving Streaming Transformer Based ASR Under a Framework of Self-Supervised Learning
+ Tue-A-V-4-10 | Improving RNN-T for Domain Scaling Using Semi-Supervised Training with Neural TTS
+ Tue-A-V-4-2 | wav2vec-C: A Self-Supervised Model for Speech Representation Learning
+ Tue-A-V-4-3 | On the Learning Dynamics of Semi-Supervised Training for ASR
+ Tue-A-V-4-4 | Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training
+ Tue-A-V-4-5 | Momentum Pseudo-Labeling for Semi-Supervised Speech Recognition
+ Tue-A-V-4-6 | A Comparison of Supervised and Unsupervised Pre-Training of End-to-End Models
+ Tue-A-V-4-7 | Semi-Supervision in ASR: Sequential MixMatch and Factorized TTS-Based Augmentation
+ Tue-A-V-4-8 | slimIPL: Language-Model-Free Iterative Pseudo-Labeling
+ Tue-A-V-4-9 | Phonetically Motivated Self-Supervised Speech Representation Learning
+ Tue-A-V-5-1 | Speaker-Conversation Factorial Designs for Diarization Error Analysis
+ Tue-A-V-5-10 | Speaker Transition Patterns in Three-Party Conversation: Evidence from English, Estonian and Swedish
+ Tue-A-V-5-2 | SmallER: Scaling Neural Entity Resolution for Edge Devices
+ Tue-A-V-5-3 | Disfluency Detection with Unlabeled Data and Small BERT Models
+ Tue-A-V-5-4 | Discriminative Self-Training for Punctuation Prediction
+ Tue-A-V-5-5 | Zero-Shot Joint Modeling of Multiple Spoken-Text-Style Conversion Tasks Using Switching Tokens
+ Tue-A-V-5-6 | A Noise Robust Method for Word-Level Pronunciation Assessment
+ Tue-A-V-5-7 | Targeted Keyword Filtering for Accelerated Spoken Topic Identification
+ Tue-A-V-5-8 | Multimodal Speech Summarization Through Semantic Concept Learning
+ Tue-A-V-5-9 | Enhancing Semantic Understanding with Self-Supervised Methods for Abstractive Dialogue Summarization
+ Tue-A-V-6-1 | Investigating Deep Neural Structures and their Interpretability in the Domain of Voice Conversion
+ Tue-A-V-6-10 | Many-to-Many Voice Conversion Based Feature Disentanglement Using Variational Autoencoder
+ Tue-A-V-6-2 | Limited Data Emotional Voice Conversion Leveraging Text-to-Speech: Two-Stage Sequence-to-Sequence Training
+ Tue-A-V-6-3 | Adversarial Voice Conversion Against Neural Spoofing Detectors
+ Tue-A-V-6-4 | An Improved StarGAN for Emotional Voice Conversion: Enhancing Voice Quality and Data Augmentation
+ Tue-A-V-6-5 | TVQVC: Transformer Based Vector Quantized Variational Autoencoder with CTC Loss for Voice Conversion
+ Tue-A-V-6-6 | Enriching Source Style Transfer in Recognition-Synthesis Based Non-Parallel Voice Conversion
+ Tue-A-V-6-7 | S2VC: A Framework for Any-to-Any Voice Conversion with Self-Supervised Pretrained Representations
+ Tue-A-V-6-8 | An Exemplar Selection Algorithm for Native-Nonnative Voice Conversion
+ Tue-A-V-6-9 | Adversarially Learning Disentangled Speech Representations for Robust Multi-Factor Voice Conversion
+ Tue-E-O-1-1 | Information Retrieval for ZeroSpeech 2021: The Submission by University of Wroclaw
+ Tue-E-O-1-2 | Aligned Contrastive Predictive Coding
+ Tue-E-O-1-3 | Neural Text Denormalization for Speech Transcripts
+ Tue-E-O-1-4 | Fearless Steps Challenge Phase-3 (FSC P3): Advancing SLT for Unseen Channel and Mission Data Across NASA Apollo Audio
+ Tue-E-O-2-1 | Voice Quality in Verbal Irony: Electroglottographic Analyses of Ironic Utterances in Standard Austrian German
+ Tue-E-O-2-2 | Synchronic Fortition in Five Romance Languages? A Large Corpus-Based Study of Word-Initial Devoicing
+ Tue-E-O-2-3 | Glottal Stops in Upper Sorbian: A Data-Driven Approach
+ Tue-E-O-2-4 | Cue Interaction in the Perception of Prosodic Prominence: The Role of Voice Quality
+ Tue-E-O-2-5 | Glottal Sounds in Korebaju
+ Tue-E-O-2-6 | Automatic Classification of Phonation Types in Spontaneous Speech: Towards a New Workflow for the Characterization of Speakers’ Voice Quality
+ Tue-E-O-3-1 | Measuring Voice Quality Parameters After Speaker Pseudonymization
+ Tue-E-O-3-2 | Audio-Visual Recognition of Emotional Engagement of People with Dementia
+ Tue-E-O-3-3 | Speaking Corona? Human and Machine Recognition of COVID-19 from Voice
+ Tue-E-O-3-4 | Acoustic-Prosodic, Lexical and Demographic Cues to Persuasiveness in Competitive Debate Speeches
+ Tue-E-SS-1-1 | Optimizing an Automatic Creaky Voice Detection Method for Australian English Speaking Females
+ Tue-E-SS-1-2 | A Comparison of Acoustic Correlates of Voice Quality Across Different Recording Devices: A Cautionary Tale
+ Tue-E-SS-1-3 | Investigating Voice Function Characteristics of Greek Speakers with Hearing Loss Using Automatic Glottal Source Feature Extraction
+ Tue-E-SS-1-4 | Automated Detection of Voice Disorder in the Saarbrücken Voice Database: Effects of Pathology Subset and Audio Materials
+ Tue-E-SS-1-5 | Accelerometer-Based Measurements of Voice Quality in Children During Semi-Occluded Vocal Tract Exercise with a Narrow Straw in Air
+ Tue-E-SS-1-6 | Articulatory Coordination for Speech Motor Tracking in Huntington Disease
+ Tue-E-SS-1-7 | Modeling Dysphonia Severity as a Function of Roughness and Breathiness Ratings in the GRBAS Scale
+ Tue-E-V-1-1 | Unsupervised Bayesian Adaptation of PLDA for Speaker Verification
+ Tue-E-V-1-10 | Scaling Effect of Self-Supervised Speech Models
+ Tue-E-V-1-11 | Joint Feature Enhancement and Speaker Recognition with Multi-Objective Task-Oriented Network
+ Tue-E-V-1-12 | Multi-Level Transfer Learning from Near-Field to Far-Field Speaker Verification
+ Tue-E-V-1-13 | Speaker Anonymisation Using the McAdams Coefficient
+ Tue-E-V-1-2 | The DKU-Duke-Lenovo System Description for the Fearless Steps Challenge Phase III
+ Tue-E-V-1-3 | Improved Meta-Learning Training for Speaker Verification
+ Tue-E-V-1-4 | Variational Information Bottleneck Based Regularization for Speaker Recognition
+ Tue-E-V-1-5 | Out of a Hundred Trials, How Many Errors Does Your Speaker Verifier Make?
+ Tue-E-V-1-6 | SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System
+ Tue-E-V-1-7 | AntVoice Neural Speaker Embedding System for FFSVC 2020
+ Tue-E-V-1-8 | Gradient Regularization for Noise-Robust Speaker Verification
+ Tue-E-V-1-9 | Deep Feature CycleGANs: Speaker Identity Preserving Non-Parallel Microphone-Telephone Domain Adaptation for Speaker Verification
+ Tue-E-V-2-1 | Multi-Stream Gated and Pyramidal Temporal Convolutional Neural Networks for Audio-Visual Speech Separation in Multi-Talker Environments
+ Tue-E-V-2-10 | Should We Always Separate?: Switching Between Enhanced and Observed Signals for Overlapping Speech Recognition
+ Tue-E-V-2-2 | TeCANet: Temporal-Contextual Attention Network for Environment-Aware Speech Dereverberation
+ Tue-E-V-2-3 | Residual Echo and Noise Cancellation with Feature Attention Module and Multi-Domain Loss Function
+ Tue-E-V-2-4 | MIMO Self-Attentive RNN Beamformer for Multi-Speaker Speech Separation
+ Tue-E-V-2-5 | Personalized PercepNet: Real-Time, Low-Complexity Target Voice Separation and Enhancement
+ Tue-E-V-2-6 | Scene-Agnostic Multi-Microphone Speech Dereverberation
+ Tue-E-V-2-7 | Manifold-Aware Deep Clustering: Maximizing Angles Between Embedding Vectors Based on Regular Simplex
+ Tue-E-V-2-8 | A Deep Learning Approach to Multi-Channel and Multi-Microphone Acoustic Echo Cancellation
+ Tue-E-V-2-9 | Joint Online Multichannel Acoustic Echo Cancellation, Speech Dereverberation and Source Separation
+ Tue-E-V-3-1 | Estimating Articulatory Movements in Speech Production with Transformer Networks
+ Tue-E-V-3-10 | Synchronising Speech Segments with Musical Beats in Mandarin and English Singing
+ Tue-E-V-3-11 | FRILL: A Non-Semantic Speech Embedding for Mobile Devices
+ Tue-E-V-3-12 | Pitch Contour Separation from Overlapping Speech
+ Tue-E-V-3-13 | Do Sound Event Representations Generalize to Other Audio Tasks? A Case Study in Audio Transfer Learning
+ Tue-E-V-3-2 | Unsupervised Multi-Target Domain Adaptation for Acoustic Scene Classification
+ Tue-E-V-3-3 | Speech Decomposition Based on a Hybrid Speech Model and Optimal Segmentation
+ Tue-E-V-3-4 | Dropout Regularization for Self-Supervised Learning of Transformer Encoder Speech Representation
+ Tue-E-V-3-5 | Noise Robust Pitch Stylization Using Minimum Mean Absolute Error Criterion
+ Tue-E-V-3-6 | An Attribute-Aligned Strategy for Learning Speech Representation
+ Tue-E-V-3-7 | Raw Speech-to-Articulatory Inversion by Temporal Filtering and Decimation
+ Tue-E-V-3-8 | Unsupervised Training of a DNN-Based Formant Tracker
+ Tue-E-V-3-9 | SUPERB: Speech Processing Universal PERformance Benchmark
+ Tue-E-V-4-1 | Data Augmentation for Spoken Language Understanding via Pretrained Language Models
+ Tue-E-V-4-10 | Rethinking End-to-End Evaluation of Decomposable Tasks: A Case Study on Spoken Language Understanding
+ Tue-E-V-4-2 | FANS: Fusing ASR and NLU for On-Device SLU
+ Tue-E-V-4-3 | Sequential End-to-End Intent and Slot Label Classification and Localization
+ Tue-E-V-4-4 | DEXTER: Deep Encoding of External Knowledge for Named Entity Recognition in Virtual Assistants
+ Tue-E-V-4-5 | A Context-Aware Hierarchical BERT Fusion Network for Multi-Turn Dialog Act Detection
+ Tue-E-V-4-6 | Pre-Training for Spoken Language Understanding with Joint Textual and Phonetic Representation Learning
+ Tue-E-V-4-7 | Predicting Temporal Performance Drop of Deployed Production Spoken Language Understanding Models
+ Tue-E-V-4-8 | Integrating Dialog History into End-to-End Spoken Language Understanding Systems
+ Tue-E-V-4-9 | Coreference Augmentation for Multi-Domain Task-Oriented Dialogue State Tracking
+ Tue-E-V-5-1 | Semantic Data Augmentation for End-to-End Mandarin Speech Recognition
+ Tue-E-V-5-10 | Best of Both Worlds: Robust Accented Speech Recognition with Adversarial Transfer Learning
+ Tue-E-V-5-11 | Extending Pronunciation Dictionary with Automatically Detected Word Mispronunciations to Improve PAII’s System for Interspeech 2021 Non-Native Child English Close Track ASR Challenge
+ Tue-E-V-5-2 | Layer-Wise Fast Adaptation for End-to-End Multi-Accent Speech Recognition
+ Tue-E-V-5-3 | Low Resource German ASR with Untranscribed Data Spoken by Non-Native Children  INTERSPEECH 2021 Shared Task SPAPL System
+ Tue-E-V-5-4 | Robust Continuous On-Device Personalization for Automatic Speech Recognition
+ Tue-E-V-5-5 | Speaker Normalization Using Joint Variational Autoencoder
+ Tue-E-V-5-6 | The TAL System for the INTERSPEECH2021 Shared Task on Automatic Speech Recognition for Non-Native Childrens Speech
+ Tue-E-V-5-7 | On-the-Fly Aligned Data Augmentation for Sequence-to-Sequence ASR
+ Tue-E-V-5-8 | Zero-Shot Cross-Lingual Phonetic Recognition with External Language Embedding
+ Tue-E-V-5-9 | Rapid Speaker Adaptation for Conformer Transducer: Attention and Bias Are All You Need
+ Tue-E-V-6-1 | CVC: Contrastive Learning for Non-Parallel Voice Conversion
+ Tue-E-V-6-10 | Non-Parallel Any-to-Many Voice Conversion by Replacing Speaker Statistics
+ Tue-E-V-6-11 | Cross-Lingual Voice Conversion with a Cycle Consistency Loss on Linguistic Representation
+ Tue-E-V-6-12 | Improving Robustness of One-Shot Voice Conversion with Deep Discriminative Speaker Encoder
+ Tue-E-V-6-2 | A Preliminary Study of a Two-Stage Paradigm for Preserving Speaker Identity in Dysarthric Voice Conversion
+ Tue-E-V-6-3 | One-Shot Voice Conversion with Speaker-Agnostic StarGAN
+ Tue-E-V-6-4 | Fine-Tuning Pre-Trained Voice Conversion Model for Adding New Target Speakers with Limited Data
+ Tue-E-V-6-5 | VQMIVC: Vector Quantization and Mutual Information-Based Unsupervised Speech Representation Disentanglement for One-Shot Voice Conversion
+ Tue-E-V-6-6 | StarGANv2-VC: A Diverse, Unsupervised, Non-Parallel Framework for Natural-Sounding Voice Conversion
+ Tue-E-V-6-7 | Normalization Driven Zero-Shot Multi-Speaker Speech Synthesis
+ Tue-E-V-6-8 | StarGAN-VC+ASR: StarGAN-Based Non-Parallel Voice Conversion Regularized by Automatic Speech Recognition
+ Tue-E-V-6-9 | Two-Pathway Style Embedding for Arbitrary Voice Conversion
+ Tue-Keynote | Forty Years of Speech and Language Processing: From Bayes Decision Rule to Deep Learning
+ Tue-M-O-1-1 | Conversion of Airborne to Bone-Conducted Speech with Deep Neural Networks
+ Tue-M-O-1-2 | T5G2P: Using Text-to-Text Transfer Transformer for Grapheme-to-Phoneme Conversion
+ Tue-M-O-1-3 | Evaluating the Extrapolation Capabilities of Neural Vocoders to Extreme Pitch Values
+ Tue-M-O-1-4 | A Systematic Review and Analysis of Multilingual Data Strategies in Text-to-Speech for Low-Resource Languages
+ Tue-M-O-2-1 | Acoustic Indicators of Speech Motor Coordination in Adults With and Without Traumatic Brain Injury
+ Tue-M-O-2-2 | On Modeling Glottal Source Information for Phonation Assessment in Parkinson’s Disease
+ Tue-M-O-2-3 | Distortion of Voiced Obstruents for Differential Diagnosis Between Parkinson’s Disease and Multiple System Atrophy
+ Tue-M-O-2-4 | A Study into Pre-Training Strategies for Spoken Language Understanding on Dysarthric Speech
+ Tue-M-O-2-5 | EasyCall Corpus: A Dysarthric Speech Dataset
+ Tue-M-O-3-1 | A Benchmark of Dynamical Variational Autoencoders Applied to Speech Spectrogram Modeling
+ Tue-M-O-3-2 | Fricative Phoneme Detection Using Deep Neural Networks and its Comparison to Traditional Methods
+ Tue-M-O-3-3 | Identification of F1 and F2 in Speech Using Modified Zero Frequency Filtering
+ Tue-M-O-3-4 | Phoneme-to-Audio Alignment with Recurrent Neural Networks for Speaking and Singing Voice
+ Tue-M-SS-1-1 | The INTERSPEECH 2021 Computational Paralinguistics Challenge: COVID-19 Cough, COVID-19 Speech, Escalation & Primates
+ Tue-M-SS-1-10 | Identifying Conflict Escalation and Primates by Using Ensemble X-Vectors and Fisher Vector Features
+ Tue-M-SS-1-11 | Ensemble-Within-Ensemble Classification for Escalation Prediction from Speech
+ Tue-M-SS-1-12 | Analysis by Synthesis: Using an Expressive TTS Model as Feature Extractor for Paralinguistic Speech Classification
+ Tue-M-SS-1-2 | Transfer Learning-Based Cough Representations for Automatic Detection of COVID-19
+ Tue-M-SS-1-3 | The Phonetic Footprint of Covid-19?
+ Tue-M-SS-1-4 | Transfer Learning and Data Augmentation Techniques to the COVID-19 Identification Tasks in ComParE 2021
+ Tue-M-SS-1-5 | Visual Transformers for Primates Classification and Covid Detection
+ Tue-M-SS-1-6 | Deep-Learning-Based Central African Primate Species Classification with MixUp and SpecAugment
+ Tue-M-SS-1-7 | A Deep and Recurrent Architecture for Primate Vocalization Classification
+ Tue-M-SS-1-8 | Introducing a Central African Primate Vocalisation Dataset for Automated Species Classification
+ Tue-M-SS-1-9 | Multi-Attentive Detection of the Spider Monkey Whinny in the (Actual) Wild
+ Tue-M-V-1-1 | Adaptive Convolutional Neural Network for Text-Independent Speaker Recognition
+ Tue-M-V-1-2 | Bidirectional Multiscale Feature Aggregation for Speaker Verification
+ Tue-M-V-1-3 | Improving Time Delay Neural Network Based Speaker Recognition with Convolutional Block and Feature Aggregation Methods
+ Tue-M-V-1-4 | Improving Deep CNN Architectures with Variable-Length Training Samples for Text-Independent Speaker Verification
+ Tue-M-V-1-5 | Binary Neural Network for Speaker Verification
+ Tue-M-V-1-6 | Mutual Information Enhanced Training for Speaker Embedding
+ Tue-M-V-1-7 | Y-Vector: Multiscale Waveform Encoder for Speaker Embedding
+ Tue-M-V-1-8 | Phoneme-Aware and Channel-Wise Attentive Learning for Text Dependent Speaker Verification
+ Tue-M-V-1-9 | Serialized Multi-Layer Multi-Head Attention for Neural Speaker Embedding
+ Tue-M-V-2-1 | TacoLPCNet: Fast and Stable TTS by Conditioning LPCNet on Mel Spectrogram Predictions
+ Tue-M-V-2-10 | Speed up Training with Variable Length Inputs by Efficient Batching Strategies
+ Tue-M-V-2-2 | FastPitchFormant: Source-Filter Based Decomposed Modeling for Speech Synthesis
+ Tue-M-V-2-3 | Sequence-to-Sequence Learning for Deep Gaussian Process Based Speech Synthesis Using Self-Attention GP Layer
+ Tue-M-V-2-4 | Phonetic and Prosodic Information Estimation from Texts for Genuine Japanese End-to-End Text-to-Speech
+ Tue-M-V-2-5 | Information Sieve: Content Leakage Reduction in End-to-End Prosody Transfer for Expressive Speech Synthesis
+ Tue-M-V-2-6 | Deliberation-Based Multi-Pass Speech Synthesis
+ Tue-M-V-2-7 | Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling
+ Tue-M-V-2-8 | Transformer-Based Acoustic Modeling for Streaming Speech Synthesis
+ Tue-M-V-2-9 | PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS
+ Tue-M-V-3-1 | Funnel Deep Complex U-Net for Phase-Aware Speech Enhancement
+ Tue-M-V-3-10 | A Spectro-Temporal Glimpsing Index (STGI) for Speech Intelligibility Prediction
+ Tue-M-V-3-11 | Self-Supervised Learning Based Phone-Fortified Speech Enhancement
+ Tue-M-V-3-12 | Incorporating Embedding Vectors from a Human Mean-Opinion Score Prediction Model for Monaural Speech Enhancement
+ Tue-M-V-3-13 | Restoring Degraded Speech via a Modified Diffusion Model
+ Tue-M-V-3-2 | Temporal Convolutional Network with Frequency Dimension Adaptive Attention for Speech Enhancement
+ Tue-M-V-3-3 | Perceptual Contributions of Vowels and Consonant-Vowel Transitions in Understanding Time-Compressed Mandarin Sentences
+ Tue-M-V-3-4 | Transfer Learning for Speech Intelligibility Improvement in Noisy Environments
+ Tue-M-V-3-5 | Comparison of Remote Experiments Using Crowdsourcing and Laboratory Experiments on Speech Intelligibility
+ Tue-M-V-3-6 | Know Your Enemy, Know Yourself: A Unified Two-Stage Framework for Speech Enhancement
+ Tue-M-V-3-7 | Speech Enhancement with Weakly Labelled Data from AudioSet
+ Tue-M-V-3-8 | Improving Perceptual Quality by Phone-Fortified Perceptual Loss Using Wasserstein Distance for Speech Enhancement
+ Tue-M-V-3-9 | MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement
+ Tue-M-V-4-1 | User-Initiated Repetition-Based Recovery in Multi-Utterance Dialogue Systems
+ Tue-M-V-4-2 | Self-Supervised Dialogue Learning for Spoken Conversational Question Answering
+ Tue-M-V-4-3 | Act-Aware Slot-Value Predicting in Multi-Domain Dialogue State Tracking
+ Tue-M-V-4-4 | Dialogue Situation Recognition for Everyday Conversation Using Multimodal Information
+ Tue-M-V-4-5 | Neural Spoken-Response Generation Using Prosodic and Linguistic Context for Conversational Systems
+ Tue-M-V-4-6 | Semantic Transportation Prototypical Network for Few-Shot Intent Detection
+ Tue-M-V-4-7 | Domain-Specific Multi-Agent Dialog Policy Learning in Multi-Domain Task-Oriented Scenarios
+ Tue-M-V-4-8 | Leveraging ASR N-Best in Deep Entity Retrieval
+ Tue-M-V-5-1 | End-to-End Spelling Correction Conditioned on Acoustic Feature for Code-Switching Speech Recognition
+ Tue-M-V-5-10 | Rethinking Evaluation in ASR: Are Our Models Robust Enough?
+ Tue-M-V-5-11 | Raw Waveform Encoder with Multi-Scale Globally Attentive Locally Recurrent Networks for End-to-End Speech Recognition
+ Tue-M-V-5-2 | Phoneme Recognition Through Fine Tuning of Phonetic Representations: A Case Study on Luhya Language Varieties
+ Tue-M-V-5-3 | Speech Acoustic Modelling Using Raw Source and Filter Components
+ Tue-M-V-5-4 | Noise Robust Acoustic Modeling for Single-Channel Speech Recognition Based on a Stream-Wise Transformer Architecture
+ Tue-M-V-5-5 | IR-GAN: Room Impulse Response Generator for Far-Field Speech Recognition
+ Tue-M-V-5-6 | Scaling Sparsemax Based Channel Selection for Speech Recognition with ad-hoc Microphone Arrays
+ Tue-M-V-5-7 | Multi-Channel Transformer Transducer for Speech Recognition
+ Tue-M-V-5-8 | Data Augmentation Methods for End-to-End Speech Recognition on Distant-Talk Scenarios
+ Tue-M-V-5-9 | Leveraging Phone Mask Training for Phonetic-Reduction-Robust E2E Uyghur Speech Recognition
+ Tue-M-V-6-1 | Attention-Based Cross-Modal Fusion for Audio-Visual Voice Activity Detection in Musical Video Streams
+ Tue-M-V-6-10 | Segmental Contrastive Predictive Coding for Unsupervised Word Segmentation
+ Tue-M-V-6-11 | A Lightweight Framework for Online Voice Activity Detection in the Wild
+ Tue-M-V-6-2 | Noise-Tolerant Self-Supervised Learning for Audio-Visual Voice Activity Detection
+ Tue-M-V-6-3 | Noisy Student-Teacher Training for Robust Keyword Spotting
+ Tue-M-V-6-4 | Multi-Channel VAD for Transcription of Group Discussion
+ Tue-M-V-6-5 | Audio-Visual Information Fusion Using Cross-Modal Teacher-Student Learning for Voice Activity Detection in Realistic Environments
+ Tue-M-V-6-6 | Enrollment-Less Training for Personalized Voice Activity Detection
+ Tue-M-V-6-7 | Voice Activity Detection for Live Speech of Baseball Game Based on Tandem Connection with Speech/Noise Separation Model
+ Tue-M-V-6-8 | FastICARL: Fast Incremental Classifier and Representation Learning with Efficient Budget Allocation in Audio Sensing Applications
+ Tue-M-V-6-9 | End-to-End Transformer-Based Open-Vocabulary Keyword Spotting with Location-Guided Local Attention
+ Tue-M-V-7-1 | “See what I mean, huh?” Evaluating Visual Inspection of F₀ Tracking in Nasal Grunts
+ Tue-M-V-7-10 | Sound Change in Spontaneous Bilingual Speech: A Corpus Study on the Cantonese n-l Merger in Cantonese-English Bilinguals
+ Tue-M-V-7-11 | Characterizing Voiced and Voiceless Nasals in Mizo
+ Tue-M-V-7-2 | System Performance as a Function of Calibration Methods, Sample Size and Sampling Variability in Likelihood Ratio-Based Forensic Voice Comparison
+ Tue-M-V-7-3 | Voicing Assimilations by French Speakers of German in Stop-Fricative Sequences
+ Tue-M-V-7-4 | The Four-Way Classification of Stops with Voicing and Aspiration for Non-Native Speech Evaluation
+ Tue-M-V-7-5 | Acoustic and Prosodic Correlates of Emotions in Urdu Speech
+ Tue-M-V-7-6 | Voicing Contrasts in the Singleton Stops of Palestinian Arabic: Production and Perception
+ Tue-M-V-7-7 | A Comparison of the Accuracy of Dissen and Keshet’s (2016) DeepFormants and Traditional LPC Methods for Semi-Automatic Speaker Recognition
+ Tue-M-V-7-8 | MAP Adaptation Characteristics in Forensic Long-Term Formant Analysis
+ Tue-M-V-7-9 | Cross-Linguistic Speaker Individuality of Long-Term Formant Distributions: Phonetic and Forensic Perspectives
+ Tue-Survey | Towards Automatic Speech Recognition for People with Atypical Speech
+ Wed-A-O-1-1 | BERT-Based Semantic Model for Rescoring N-Best Speech Recognition List
+ Wed-A-O-1-3 | Text Augmentation for Language Models in High Error Recognition Scenario
+ Wed-A-O-1-4 | On Sampling-Based Training Criteria for Neural Language Modeling
+ Wed-A-O-1-5 | Fast Text-Only Domain Adaptation of RNN-Transducer Prediction Network
+ Wed-A-O-2-2 | Using Games to Augment Corpora for Language Recognition and Confusability
+ Wed-A-O-2-3 | Fair Voice Biometrics: Impact of Demographic Imbalance on Group Fairness in Speaker Recognition
+ Wed-A-O-2-4 | Knowledge Distillation from Multi-Modality to Single-Modality for Person Verification
+ Wed-A-O-2-6 | Adversarial Disentanglement of Speaker Representation for Attribute-Driven Privacy Preservation
+ Wed-A-O-3-1 | Automatically Detecting Errors and Disfluencies in Read Speech to Predict Cognitive Impairment in People with Parkinson’s Disease
+ Wed-A-O-3-2 | Automatic Extraction of Speech Rhythm Descriptors for Speech Intelligibility Assessment in the Context of Head and Neck Cancers
+ Wed-A-O-3-3 | Speech Disorder Classification Using Extended Factorized Hierarchical Variational Auto-Encoders
+ Wed-A-O-3-4 | The Impact of Forced-Alignment Errors on Automatic Pronunciation Evaluation
+ Wed-A-O-3-5 | Late Fusion of the Available Lexicon and Raw Waveform-Based Acoustic Modeling for Depression and Dementia Recognition
+ Wed-A-O-3-6 | Neural Speaker Embeddings for Ultrasound-Based Silent Speech Interfaces
+ Wed-A-S&T-1-1 | Multi-Speaker Emotional Text-to-Speech Synthesizer
+ Wed-A-S&T-1-2 | Live TV Subtitling Through Respeaking
+ Wed-A-S&T-1-3 | Autonomous Robot for Measuring Room Impulse Responses
+ Wed-A-S&T-1-4 | Expressive Robot Performance Based on Facial Motion Capture
+ Wed-A-S&T-1-5 | ThemePro 2.0: Showcasing the Role of Thematic Progression in Engaging Human-Computer Interaction
+ Wed-A-S&T-1-6 | Addressing Compliance in Call Centers with Entity Extraction
+ Wed-A-S&T-1-7 | Audio Segmentation Based Conversational Silence Detection for Contact Center Calls
+ Wed-A-SS-1-1 | The ID R&D System Description for Short-Duration Speaker Verification Challenge 2021
+ Wed-A-SS-1-2 | Integrating Frequency Translational Invariance in TDNNs and Frequency Positional Information in 2D ResNets to Enhance Speaker Verification
+ Wed-A-SS-1-3 | SdSVC Challenge 2021: Tips and Tricks to Boost the Short-Duration Speaker Verification System Performance
+ Wed-A-SS-1-4 | Team02 Text-Independent Speaker Verification System for SdSV Challenge 2021
+ Wed-A-SS-1-5 | Our Learned Lessons from Cross-Lingual Speaker Verification: The CRMI-DKU System Description for the Short-Duration Speaker Verification Challenge 2021
+ Wed-A-SS-1-6 | Investigation of IMU&Elevoc Submission for the Short-Duration Speaker Verification Challenge 2021
+ Wed-A-SS-1-7 | The Sogou System for Short-Duration Speaker Verification Challenge 2021
+ Wed-A-SS-1-8 | The SJTU System for Short-Duration Speaker Verification Challenge 2021
+ Wed-A-V-1-1 | Cross-Modal Learning for Audio-Visual Video Parsing
+ Wed-A-V-1-2 | A Psychology-Driven Computational Analysis of Political Interviews
+ Wed-A-V-1-3 | Speech Emotion Recognition Based on Attention Weight Correction Using Word-Level Confidence Measure
+ Wed-A-V-1-4 | Effects of Voice Type and Task on L2 Learners’ Awareness of Pronunciation Errors
+ Wed-A-V-1-5 | Lexical Entrainment and Intra-Speaker Variability in Cooperative Dialogues
+ Wed-A-V-1-6 | Detecting Alzheimer’s Disease Using Interactional and Acoustic Features from Spontaneous Speech
+ Wed-A-V-1-7 | Investigating the Interplay Between Affective, Phonatory and Motoric Subsystems in Autism Spectrum Disorder Using a Multimodal Dialogue Agent
+ Wed-A-V-1-8 | Analysis of Eye Gaze Reasons and Gaze Aversions During Three-Party Conversations
+ Wed-A-V-2-1 | Semantic Distance: A New Metric for ASR Performance Analysis Towards Spoken Language Understanding
+ Wed-A-V-2-10 | Class-Based Neural Network Language Model for Second-Pass Rescoring in ASR
+ Wed-A-V-2-11 | Improving Customization of Neural Transducers by Mitigating Acoustic Mismatch of Synthesized Audio
+ Wed-A-V-2-12 | A Discriminative Entity-Aware Language Model for Virtual Assistants
+ Wed-A-V-2-13 | Correcting Automated and Manual Speech Transcription Errors Using Warped Language Models
+ Wed-A-V-2-2 | A Light-Weight Contextual Spelling Correction Model for Customizing Transducer-Based Speech Recognition Systems
+ Wed-A-V-2-3 | Incorporating External POS Tagger for Punctuation Restoration
+ Wed-A-V-2-4 | Phonetically Induced Subwords for End-to-End Speech Recognition
+ Wed-A-V-2-5 | Revisiting Parity of Human vs. Machine Conversational Speech Transcription
+ Wed-A-V-2-6 | Lookup-Table Recurrent Language Models for Long Tail Speech Recognition
+ Wed-A-V-2-7 | Contextual Density Ratio for Language Model Biasing of Sequence to Sequence ASR Systems
+ Wed-A-V-2-8 | Token-Level Supervised Contrastive Learning for Punctuation Restoration
+ Wed-A-V-2-9 | BART Based Semantic Correction for Mandarin Automatic Speech Recognition System
+ Wed-A-V-3-1 | Dynamic Encoder Transducer: A Flexible Solution for Trading Off Accuracy for Latency
+ Wed-A-V-3-10 | End to End Transformer-Based Contextual Speech Recognition Based on Pointer Network
+ Wed-A-V-3-11 | A Comparative Study on Neural Architectures and Training Methods for Japanese Speech Recognition
+ Wed-A-V-3-12 | Advanced Long-Context End-to-End Speech Recognition Using Context-Expanded Transformers
+ Wed-A-V-3-13 | Transformer-Based ASR Incorporating Time-Reduction Layer and Fine-Tuning with Self-Knowledge Distillation
+ Wed-A-V-3-14 | Flexi-Transducer: Optimizing Latency, Accuracy and Compute for Multi-Domain On-Device Scenarios
+ Wed-A-V-3-2 | Domain-Aware Self-Attention for Multi-Domain Neural Machine Translation
+ Wed-A-V-3-3 | Librispeech Transducer Model with Internal Language Model Prior Correction
+ Wed-A-V-3-4 | A Deliberation-Based Joint Acoustic and Text Decoder
+ Wed-A-V-3-5 | On the Limit of English Conversational Speech Recognition
+ Wed-A-V-3-6 | Deformable TDNN with Adaptive Receptive Fields for Speech Recognition
+ Wed-A-V-3-7 | Transformer-Based End-to-End Speech Recognition with Residual Gaussian-Based Self-Attention
+ Wed-A-V-3-8 | SpeechMoE: Scaling to Large Acoustic Models with Dynamic Routing Mixture of Experts
+ Wed-A-V-3-9 | Online Compressive Transformer for End-to-End Speech Recognition
+ Wed-A-V-4-1 | Difference in Perceived Speech Signal Quality Assessment Among Monolingual and Bilingual Teenage Students
+ Wed-A-V-4-10 | Feature Fusion by Attention Networks for Robust DOA Estimation
+ Wed-A-V-4-11 | Far-Field Speaker Localization and Adaptive GLMB Tracking
+ Wed-A-V-4-12 | On the Design of Deep Priors for Unsupervised Audio Restoration
+ Wed-A-V-4-13 | Cramér-Rao Lower Bound for DOA Estimation with an Array of Directional Microphones in Reverberant Environments
+ Wed-A-V-4-2 | PILOT: Introducing Transformers for Probabilistic Sound Event Localization
+ Wed-A-V-4-3 | Sound Source Localization with Majorization Minimization
+ Wed-A-V-4-4 | NISQA: A Deep CNN-Self-Attention Model for Multidimensional Speech Quality Prediction with Crowdsourced Datasets
+ Wed-A-V-4-5 | Subjective Evaluation of Noise Suppression Algorithms in Crowdsourcing
+ Wed-A-V-4-6 | Reliable Intensity Vector Selection for Multi-Source Direction-of-Arrival Estimation Using a Single Acoustic Vector Sensor
+ Wed-A-V-4-7 | MetricNet: Towards Improved Modeling For Non-Intrusive Speech Quality Assessment
+ Wed-A-V-4-8 | CNN-Based Processing of Acoustic and Radio Frequency Signals for Speaker Localization from MAVs
+ Wed-A-V-4-9 | Assessment of von Mises-Bernoulli Deep Neural Network in Sound Source Localization
+ Wed-A-V-5-1 | GAN Vocoder: Multi-Resolution Discriminator Is All You Need
+ Wed-A-V-5-10 | Basis-MelGAN: Efficient Neural Vocoder Based on Audio Decomposition
+ Wed-A-V-5-11 | High-Fidelity Parallel WaveGAN with Multi-Band Harmonic-Plus-Noise Model
+ Wed-A-V-5-2 | Glow-WaveGAN: Learning Speech Representations from GAN-Based Variational Auto-Encoder for High Fidelity Flow-Based Speech Synthesis
+ Wed-A-V-5-3 | Unified Source-Filter GAN: Unified Source-Filter Network Based On Factorization of Quasi-Periodic Parallel WaveGAN
+ Wed-A-V-5-4 | Harmonic WaveGAN: GAN-Based Speech Waveform Generation Model with Harmonic Structure Discriminator
+ Wed-A-V-5-5 | Fre-GAN: Adversarial Frequency-Consistent Audio Synthesis
+ Wed-A-V-5-6 | GANSpeech: Adversarial Training for High-Fidelity Multi-Speaker Speech Synthesis
+ Wed-A-V-5-7 | UnivNet: A Neural Vocoder with Multi-Resolution Spectrogram Discriminators for High-Fidelity Waveform Generation
+ Wed-A-V-5-8 | Continuous Wavelet Vocoder-Based Decomposition of Parametric Speech Waveform Synthesis
+ Wed-A-V-5-9 | High-Fidelity and Low-Latency Universal Neural Vocoder Based on Multiband WaveRNN with Data-Driven Linear Prediction for Discrete Waveform Modeling
+ Wed-A-V-6-1 | SpecRec: An Alternative Solution for Improving End-to-End Speech-to-Text Translation via Spectrogram Reconstruction
+ Wed-A-V-6-10 | Towards Simultaneous Machine Interpretation
+ Wed-A-V-6-11 | Lexical Modeling of ASR Errors for Robust Speech Translation
+ Wed-A-V-6-12 | Optimally Encoding Inductive Biases into the Transformer Improves End-to-End Speech Translation
+ Wed-A-V-6-13 | Effects of Feature Scaling and Fusion on Sign Language Translation
+ Wed-A-V-6-2 | Subtitle Translation as Markup Translation
+ Wed-A-V-6-3 | Large-Scale Self- and Semi-Supervised Learning for Speech Translation
+ Wed-A-V-6-4 | CoVoST 2 and Massively Multilingual Speech Translation
+ Wed-A-V-6-5 | AlloST: Low-Resource Speech Translation Without Source Transcription
+ Wed-A-V-6-6 | Weakly-Supervised Speech-to-Text Mapping with Visually Connected Non-Parallel Speech-Text Data Using Cyclic Partially-Aligned Transformer
+ Wed-A-V-6-7 | Transcribing Paralinguistic Acoustic Cues to Target Language Text in Transformer-Based Speech-to-Text Translation
+ Wed-A-V-6-8 | End-to-End Speech Translation via Cross-Modal Progressive Training
+ Wed-A-V-6-9 | ASR Posterior-Based Loss for Multi-Task End-to-End Speech Translation
+ Wed-E-O-1-1 | Reformulating DOVER-Lap Label Mapping as a Graph Partitioning Problem
+ Wed-E-O-1-2 | Graph Attention Networks for Anti-Spoofing
+ Wed-E-O-1-3 | Log-Likelihood-Ratio Cost Function as Objective Loss for Speaker Verification Systems
+ Wed-E-O-1-4 | Effective Phase Encoding for End-To-End Speaker Verification
+ Wed-E-O-2-1 | Impact of Encoding and Segmentation Strategies on End-to-End Simultaneous Speech Translation
+ Wed-E-O-2-2 | Lost in Interpreting: Speech Translation from Source or Interpreter?
+ Wed-E-O-2-3 | Active Speaker Detection as a Multi-Objective Optimization with Uncertainty-Based Multimodal Fusion
+ Wed-E-O-2-4 | It’s Not What You Said, it’s How You Said it: Discriminative Perception of Speech as a Multichannel Communication System
+ Wed-E-O-3-1 | Extending the Fullband E-Model Towards Background Noise, Bursty Packet Loss, and Conversational Degradations
+ Wed-E-O-3-2 | ORCA-SLANG: An Automatic Multi-Stage Semi-Supervised Deep Learning Framework for Large-Scale Killer Whale Call Type Identification
+ Wed-E-O-3-3 | Audiovisual Transfer Learning for Audio Tagging and Sound Event Detection
+ Wed-E-O-3-4 | Non-Intrusive Speech Quality Assessment with Transfer Learning and Subject-Specific Scaling
+ Wed-E-O-3-5 | Audio Retrieval with Natural Language Queries
+ Wed-E-SS-1-1 | INTERSPEECH 2021 Deep Noise Suppression Challenge
+ Wed-E-SS-1-2 | A Simultaneous Denoising and Dereverberation Framework with Target Decoupling
+ Wed-E-SS-1-3 | Deep Noise Suppression with Non-Intrusive PESQNet Supervision Enabling the Use of Real Training Data
+ Wed-E-SS-1-4 | DPCRN: Dual-Path Convolution Recurrent Network for Single Channel Speech Enhancement
+ Wed-E-SS-1-5 | DCCRN+: Channel-Wise Subband DCCRN with SNR Estimation for Speech Enhancement
+ Wed-E-SS-1-6 | DBNet: A Dual-Branch Network Architecture Processing on Spectrum and Waveform for Single-Channel Speech Enhancement
+ Wed-E-SS-1-7 | Low-Delay Speech Enhancement Using Perceptually Motivated Target and Loss
+ Wed-E-SS-1-8 | Lightweight Causal Transformer with Local Self-Attention for Real-Time Speech Enhancement
+ Wed-E-V-1-1 | Bootstrap an End-to-End ASR System by Multilingual Training, Transfer Learning, Text-to-Text Mapping and Synthetic Audio
+ Wed-E-V-1-10 | Hierarchical Phone Recognition with Compositional Phonetics
+ Wed-E-V-1-11 | Towards One Model to Rule All: Multilingual Strategy for Dialectal Code-Switching Arabic ASR
+ Wed-E-V-1-12 | Differentiable Allophone Graphs for Language-Universal Speech Recognition
+ Wed-E-V-1-2 | Efficient Weight Factorization for Multilingual Speech Recognition
+ Wed-E-V-1-3 | Unsupervised Cross-Lingual Representation Learning for Speech Recognition
+ Wed-E-V-1-4 | Language and Speaker-Independent Feature Transformation for End-to-End Multilingual Speech Recognition
+ Wed-E-V-1-5 | Using Large Self-Supervised Models for Low-Resource Speech Recognition
+ Wed-E-V-1-6 | Dual Script E2E Framework for Multilingual and Code-Switching ASR
+ Wed-E-V-1-7 | MUCS 2021: Multilingual and Code-Switching ASR Challenges for Low Resource Indian Languages
+ Wed-E-V-1-8 | Adapt-and-Adjust: Overcoming the Long-Tail Problem of Multilingual Speech Recognition
+ Wed-E-V-1-9 | SRI-B End-to-End System for Multilingual and Code-Switching ASR Challenges for Low Resource Indian Languages
+ Wed-E-V-2-1 | Automatic Speech Recognition Systems Errors for Objective Sleepiness Detection Through Voice
+ Wed-E-V-2-10 | Analysis of Contextual Voice Changes in Remote Meetings
+ Wed-E-V-2-11 | Speech Based Depression Severity Level Classification Using a Multi-Stage Dilated CNN-LSTM Model
+ Wed-E-V-2-2 | Robust Laughter Detection in Noisy Environments
+ Wed-E-V-2-3 | Impact of Emotional State on Estimation of Willingness to Buy from Advertising Speech
+ Wed-E-V-2-4 | Stacked Recurrent Neural Networks for Speech-Based Inference of Attachment Condition in School Age Children
+ Wed-E-V-2-5 | Language or Paralanguage, This is the Problem: Comparing Depressed and Non-Depressed Speakers Through the Analysis of Gated Multimodal Units
+ Wed-E-V-2-6 | Emotion Carrier Recognition from Personal Narratives
+ Wed-E-V-2-7 | Non-Verbal Vocalisation and Laughter Detection Using Sequence-to-Sequence Models and Multi-Label Training
+ Wed-E-V-2-8 | TDCA-Net: Time-Domain Channel Attention Network for Depression Detection
+ Wed-E-V-2-9 | Visual Speech for Obstructive Sleep Apnea Detection
+ Wed-E-V-3-1 | Multi-Domain Knowledge Distillation via Uncertainty-Matching for End-to-End ASR Models
+ Wed-E-V-3-10 | Scaling Laws for Acoustic Models
+ Wed-E-V-3-11 | Leveraging Non-Target Language Resources to Improve ASR Performance in a Target Language
+ Wed-E-V-3-12 | 4-Bit Quantization of LSTM-Based Speech Recognition Models
+ Wed-E-V-3-13 | Unified Autoregressive Modeling for Joint End-to-End Multi-Talker Overlapped Speech Recognition and Speaker Attribute Estimation
+ Wed-E-V-3-14 | Minimum Word Error Rate Training with Language Model Fusion for End-to-End Speech Recognition
+ Wed-E-V-3-15 | Variable Frame Rate Acoustic Models Using Minimum Error Reinforcement Learning
+ Wed-E-V-3-2 | Learning a Neural Diff for Speech Models
+ Wed-E-V-3-3 | Stochastic Attention Head Removal: A Simple and Effective Method for Improving Transformer Based ASR Models
+ Wed-E-V-3-4 | Model-Agnostic Fast Adaptive Multi-Objective Balancing Algorithm for Multilingual Automatic Speech Recognition Model Training
+ Wed-E-V-3-5 | Towards Lifelong Learning of End-to-End ASR
+ Wed-E-V-3-6 | Self-Adaptive Distillation for Multilingual Speech Recognition: Leveraging Student Independence
+ Wed-E-V-3-7 | Regularizing Word Segmentation by Creating Misspellings
+ Wed-E-V-3-8 | Multitask Training with Text Data for End-to-End Speech Recognition
+ Wed-E-V-3-9 | Emitting Word Timings with HMM-Free End-to-End System in Automatic Speech Recognition
+ Wed-E-V-4-1 | How f0 and Phrase Position Affect Papuan Malay Word Identification
+ Wed-E-V-4-10 | The LF Model in the Frequency Domain for Glottal Airflow Modelling Without Aliasing Distortion
+ Wed-E-V-4-11 | Parsing Speech for Grouping and Prominence, and the Typology of Rhythm
+ Wed-E-V-4-12 | Prosody of Case Markers in Urdu
+ Wed-E-V-4-13 | Articulatory Characteristics of Icelandic Voiced Fricative Lenition: Gradience, Categoricity, and Speaker/Gesture-Specific Effects
+ Wed-E-V-4-14 | Leveraging the Uniformity Framework to Examine Crosslinguistic Similarity for Long-Lag Stops in Spontaneous Cantonese-English Bilingual Speech
+ Wed-E-V-4-2 | On the Feasibility of the Danish Model of Intonational Transcription: Phonetic Evidence from Jutlandic Danish
+ Wed-E-V-4-3 | An Experiment in Paratone Detection in a Prosodically Annotated EAP Spoken Corpus
+ Wed-E-V-4-4 | ProsoBeast Prosody Annotation Tool
+ Wed-E-V-4-5 | Assessing the Use of Prosody in Constituency Parsing of Imperfect Transcripts
+ Wed-E-V-4-6 | Targeted and Targetless Neutral Tones in Taiwanese Southern Min
+ Wed-E-V-4-7 | The Interaction of Word Complexity and Word Duration in an Agglutinative Language
+ Wed-E-V-4-8 | Taiwan Min Nan (Taiwanese) Checked Tones Sound Change
+ Wed-E-V-4-9 | In-Group Advantage in the Perception of Emotions: Evidence from Three Varieties of German
+ Wed-E-V-5-1 | Personalized Speech Enhancement Through Self-Supervised Data Augmentation and Purification
+ Wed-E-V-5-10 | Improved Speech Enhancement Using a Complex-Domain GAN with Fused Time-Domain and Time-Frequency Domain Constraints
+ Wed-E-V-5-11 | Speech Enhancement with Topology-Enhanced Generative Adversarial Networks (GANs)
+ Wed-E-V-5-12 | Learning Speech Structure to Improve Time-Frequency Masks
+ Wed-E-V-5-13 | SE-Conformer: Time-Domain Speech Enhancement Using Conformer
+ Wed-E-V-5-2 | Speech Denoising with Auditory Models
+ Wed-E-V-5-3 | Human Listening and Live Captioning: Multi-Task Training for Speech Enhancement
+ Wed-E-V-5-4 | Multi-Stage Progressive Speech Enhancement Network
+ Wed-E-V-5-5 | Single-Channel Speech Enhancement Using Learnable Loss Mixup
+ Wed-E-V-5-6 | A Maximum Likelihood Approach to SNR-Progressive Learning Using Generalized Gaussian Distribution for LSTM-Based Speech Enhancement
+ Wed-E-V-5-7 | Whisper Speech Enhancement Using Joint Variational Autoencoder for Improved Speech Recognition
+ Wed-E-V-5-8 | DEMUCS-Mobile : On-Device Lightweight Speech Enhancement
+ Wed-E-V-5-9 | Speech Denoising Without Clean Training Data: A Noise2Noise Approach
+ Wed-E-V-6-1 | Spectral and Latent Speech Representation Distortion for TTS Evaluation
+ Wed-E-V-6-10 | KazakhTTS: An Open-Source Kazakh Text-to-Speech Synthesis Dataset
+ Wed-E-V-6-11 | Confidence Intervals for ASR-Based TTS Evaluation
+ Wed-E-V-6-2 | Detection and Analysis of Attention Errors in Sequence-to-Sequence Text-to-Speech
+ Wed-E-V-6-3 | RyanSpeech: A Corpus for Conversational Text-to-Speech Synthesis
+ Wed-E-V-6-4 | AISHELL-3: A Multi-Speaker Mandarin TTS Corpus
+ Wed-E-V-6-5 | Comparing Speech Enhancement Techniques for Voice Adaptation-Based Speech Synthesis
+ Wed-E-V-6-6 | EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model
+ Wed-E-V-6-7 | Perception of Social Speaker Characteristics in Synthetic Speech
+ Wed-E-V-6-8 | Hi-Fi Multi-Speaker English TTS Dataset
+ Wed-E-V-6-9 | Utilizing Self-Supervised Representations for MOS Prediction
+ Wed-Keynote | Ethical and Technological Challenges of Conversational AI
+ Wed-M-O-1-1 | Golos: Russian Dataset for Speech Research
+ Wed-M-O-1-2 | Radically Old Way of Computing Spectra: Applications in End-to-End ASR
+ Wed-M-O-1-3 | Self-Supervised End-to-End ASR for Low Resource L2 Swedish
+ Wed-M-O-1-4 | SPGISpeech: 5,000 Hours of Transcribed Financial Audio for Fully Formatted End-to-End Speech Recognition
+ Wed-M-O-1-5 | //LeBenchmark//: A Reproducible Framework for Assessing Self-Supervised Representation Learning from Speech
+ Wed-M-O-2-1 | Prosodic Accommodation in Face-to-Face and Telephone Dialogues
+ Wed-M-O-2-2 | Dialect Features in Heterogeneous and Homogeneous Gheg Speaking Communities
+ Wed-M-O-2-3 | An Exploration of the Acoustic Space of Rhotics and Laterals in Ruruuli
+ Wed-M-O-2-4 | Domain-Initial Strengthening in Turkish: Acoustic Cues to Prosodic Hierarchy in Stop Consonants
+ Wed-M-O-3-1 | Auxiliary Loss Function for Target Speech Extraction and Recognition with Weak Supervision Based on Speaker Characteristics
+ Wed-M-O-3-2 | Universal Speaker Extraction in the Presence and Absence of Target Speakers for Speech of One and Two Talkers
+ Wed-M-O-3-3 | Using X-Vectors for Speech Activity Detection in Broadcast Streams
+ Wed-M-O-3-4 | Time Delay Estimation for Speaker Localization Using CNN-Based Parametrized GCC-PHAT Features
+ Wed-M-O-3-5 | Real-Time Speaker Counting in a Cocktail Party Scenario Using Attention-Guided Convolutional Neural Network
+ Wed-M-SS-1-1 | A Causal U-Net Based Neural Beamforming Network for Real-Time Multi-Channel Speech Enhancement
+ Wed-M-SS-1-2 | A Partitioned-Block Frequency-Domain Adaptive Kalman Filter for Stereophonic Acoustic Echo Cancellation
+ Wed-M-SS-1-3 | Real-Time Independent Vector Analysis Using Semi-Supervised Nonnegative Matrix Factorization as a Source Model
+ Wed-M-SS-1-4 | Improving Channel Decorrelation for Multi-Channel Target Speech Extraction
+ Wed-M-SS-1-5 | Inplace Gated Convolutional Recurrent Neural Network for Dual-Channel Speech Enhancement
+ Wed-M-SS-1-6 | SRIB-LEAP Submission to Far-Field Multi-Channel Speech Enhancement Challenge for Video Conferencing
+ Wed-M-SS-1-7 | Real-Time Multi-Channel Speech Enhancement Based on Neural Network Masking with Attention Model
+ Wed-M-V-1-1 | End-to-End Language Diarization for Bilingual Code-Switching Speech
+ Wed-M-V-1-2 | Modeling and Training Strategies for Language Recognition Systems
+ Wed-M-V-1-3 | A Weight Moving Average Based Alternate Decoupled Learning Algorithm for Long-Tailed Language Identification
+ Wed-M-V-1-4 | Improving Accent Identification and Accented Speech Recognition Under a Framework of Self-Supervised Learning
+ Wed-M-V-1-5 | Exploring wav2vec 2.0 on Speaker Verification and Language Identification
+ Wed-M-V-1-6 | Self-Supervised Phonotactic Representations for Language Identification
+ Wed-M-V-1-7 | E2E-Based Multi-Task Learning Approach to Joint Speech and Accent Recognition
+ Wed-M-V-1-8 | Excitation Source Feature Based Dialect Identification in Ao  A Low Resource Language
+ Wed-M-V-2-1 | Low Resource ASR: The Surprising Effectiveness of High Resource Transliteration
+ Wed-M-V-2-10 | The Zero Resource Speech Challenge 2021: Spoken Language Modelling
+ Wed-M-V-2-11 | Zero-Shot Federated Learning with New Classes for Audio Classification
+ Wed-M-V-2-12 | AVLnet: Learning Audio-Visual Language Representations from Instructional Videos
+ Wed-M-V-2-2 | Unsupervised Acoustic Unit Discovery by Leveraging a Language-Independent Subword Discriminative Feature Representation
+ Wed-M-V-2-3 | Towards Unsupervised Phone and Word Segmentation Using Self-Supervised Vector-Quantized Neural Networks
+ Wed-M-V-2-4 | Speech SimCLR: Combining Contrastive and Reconstruction Objective for Self-Supervised Speech Representation Learning
+ Wed-M-V-2-5 | Multilingual Transfer of Acoustic Word Embeddings Improves When Training on Languages Related to the Target Zero-Resource Language
+ Wed-M-V-2-6 | Analyzing Speaker Information in Self-Supervised Models to Improve Zero-Resource Speech Processing
+ Wed-M-V-2-7 | Unsupervised Neural-Based Graph Clustering for Variable-Length Speech Representation Discovery of Zero-Resource Languages
+ Wed-M-V-2-8 | Speech Representation Learning Combining Conformer CPC with Deep Cluster for the ZeroSpeech Challenge 2021
+ Wed-M-V-2-9 | Identifying Indicators of Vulnerability from Short Speech Segments Using Acoustic and Textual Features
+ Wed-M-V-3-1 | N-Singer: A Non-Autoregressive Korean Singing Voice Synthesis System for Pronunciation Enhancement
+ Wed-M-V-3-2 | Cross-Lingual Low Resource Speaker Adaptation Using Phonological Features
+ Wed-M-V-3-3 | Improve Cross-Lingual Text-To-Speech Synthesis on Monolingual Corpora with Pitch Contour Information
+ Wed-M-V-3-4 | Cross-Lingual Voice Conversion with Disentangled Universal Linguistic Representations
+ Wed-M-V-3-5 | EfficientSing: A Chinese Singing Voice Synthesis System Using Duration-Free Acoustic Model and HiFi-GAN Vocoder
+ Wed-M-V-3-6 | Cross-Lingual Speaker Adaptation Using Domain Adaptation and Speaker Consistency Loss for Text-To-Speech Synthesis
+ Wed-M-V-3-7 | Incorporating Cross-Speaker Style Transfer for Multi-Language Text-to-Speech
+ Wed-M-V-3-8 | Investigating Contributions of Speech and Facial Landmarks for Talking Head Generation
+ Wed-M-V-3-9 | Speech2Video: Cross-Modal Distillation for Speech to Video Generation
+ Wed-M-V-4-1 | NU-Wave: A Diffusion Probabilistic Model for Neural Audio Upsampling
+ Wed-M-V-4-10 | Improving the Expressiveness of Neural Vocoding with Non-Affine Normalizing Flows
+ Wed-M-V-4-11 | Voice Privacy Through x-Vector and CycleGAN-Based Anonymization
+ Wed-M-V-4-12 | A Two-Stage Approach to Speech Bandwidth Extension
+ Wed-M-V-4-13 | Development of a Psychoacoustic Loss Function for the Deep Neural Network	(DNN)-Based Speech Coder
+ Wed-M-V-4-14 | Protecting Gender and Identity with Disentangled Speech Representations
+ Wed-M-V-4-2 | QISTA-Net-Audio: Audio Super-Resolution via Non-Convex ℓ,,q,,-Norm Minimization
+ Wed-M-V-4-3 | X-net: A Joint Scale Down and Scale Up Method for Voice Call
+ Wed-M-V-4-4 | WSRGlow: A Glow-Based Waveform Generative Model for Audio Super-Resolution
+ Wed-M-V-4-5 | Half-Truth: A Partially Fake Audio Detection Dataset
+ Wed-M-V-4-6 | Data Quality as Predictor of Voice Anti-Spoofing Generalization
+ Wed-M-V-4-7 | Coded Speech Enhancement Using Neural Network-Based Vector-Quantized Residual Features
+ Wed-M-V-4-8 | Multi-Channel Opus Compression for Far-Field Automatic Speech Recognition with a Fixed Bitrate Budget
+ Wed-M-V-4-9 | Effects of Prosodic Variations on Accidental Triggers of a Commercial Voice Assistant
+ Wed-M-V-5-1 | Perception of Standard Arabic Synthetic Speech Rate
+ Wed-M-V-5-10 | Towards the Explainability of Multimodal Speech Emotion Recognition
+ Wed-M-V-5-11 | Primacy of Mouth over Eyes: Eye Movement Evidence from Audiovisual Mandarin Lexical Tones and Vowels
+ Wed-M-V-5-12 | Investigating the Impact of Spectral and Temporal Degradation on End-to-End Automatic Speech Recognition Performance
+ Wed-M-V-5-2 | The Influence of Parallel Processing on Illusory Vowels
+ Wed-M-V-5-3 | Exploring the Potential of Lexical Paraphrases for Mitigating Noise-Induced Comprehension Errors
+ Wed-M-V-5-4 | SPEECHADJUSTER: A Tool for Investigating Listener Preferences and Speech Intelligibility
+ Wed-M-V-5-5 | VocalTurk: Exploring Feasibility of Crowdsourced Speaker Identification
+ Wed-M-V-5-6 | Effects of Aging and Age-Related Hearing Loss on Talker Discrimination
+ Wed-M-V-5-7 | Relationships Between Perceptual Distinctiveness, Articulatory Complexity and Functional Load in Speech Communication
+ Wed-M-V-5-8 | Human Spoofing Detection Performance on Degraded Speech
+ Wed-M-V-5-9 | Reliable Estimates of Interpretable Cue Effects with Active Learning in Psycholinguistic Research
+ Wed-M-V-6-1 | Super-Human Performance in Online Low-Latency Recognition of Conversational Speech
+ Wed-M-V-6-10 | Bridging the Gap Between Streaming and Non-Streaming ASR Systems by Distilling Ensembles of CTC and RNN-T Models
+ Wed-M-V-6-11 | Mixture Model Attention: Flexible Streaming and Non-Streaming Automatic Speech Recognition
+ Wed-M-V-6-12 | StableEmit: Selection Probability Discount for Reducing Emission Latency of Streaming Monotonic Attention ASR
+ Wed-M-V-6-13 | Dual Causal/Non-Causal Self-Attention for Streaming End-to-End Speech Recognition
+ Wed-M-V-6-14 | Multi-Mode Transformer Transducer with Stochastic Future Context
+ Wed-M-V-6-2 | Multiple Softmax Architecture for Streaming Multilingual End-to-End ASR Systems
+ Wed-M-V-6-3 | Contextualized Streaming End-to-End Speech Recognition with Trie-Based Deep Biasing and Shallow Fusion
+ Wed-M-V-6-4 | An Efficient Streaming Non-Recurrent On-Device End-to-End Model with Improvements to Rare-Word Modeling
+ Wed-M-V-6-5 | Streaming Multi-Talker Speech Recognition with Joint Speaker Identification
+ Wed-M-V-6-6 | Streaming End-to-End Speech Recognition for Hybrid RNN-T/Attention Architecture
+ Wed-M-V-6-7 | Improving RNN-T ASR Accuracy Using Context Audio
+ Wed-M-V-6-8 | HMM-Free Encoder Pre-Training for Streaming RNN Transducer
+ Wed-M-V-6-9 | Reducing Exposure Bias in Training Recurrent Neural Network Transducers
+ Wed-Survey | Uncovering the Acoustic Cues of COVID-19 Infection

@@ -1,0 +1,116 @@
+Tue-M-O-1 ;Speech Synthesis: Other Topics 
+Tue-M-O-2 ;Disordered Speech 
+Tue-M-O-3 ;Speech Signal Analysis and Representation : II 
+Tue-M-V-1 ;Speaker Recognition : Feature, Embedding and Neural Architecture for Speaker Recognition
+Tue-M-V-2 ;Speech Synthesis: Toward End-to-End Synthesis  II
+Tue-M-V-3 ;Speech Enhancement: Speech Enhancement and Intelligibility
+Tue-M-V-4 ;Spoken Dialogue Systems  : I
+Tue-M-V-5 ;Topics in ASR: Robustness, Feature Extraction, and Far-Field ASR 
+Tue-M-V-6 ;Voice Activity Detection and Keyword Spotting 
+Tue-M-V-7 ;Voice and Voicing 
+Tue-M-SS-1 ;The INTERSPEECH 2021 Computational Paralinguistics Challenge (ComParE)    COVID-19 Cough, COVID-19 Speech, Escalation    Primates 
+Tue-Survey ;Survey Talk : 1
+Tue-A-O-1 ;Speaker Recognition : Embedding and Network Architecture for Speaker Recognition
+Tue-A-O-2 ;Speech Perception  : I
+Tue-A-V-1 ;Acoustic Event Detection and Acoustic Scene Classification 
+Tue-A-V-2 ;Diverse Modes of Speech Acquisition and Processing 
+Tue-A-V-3 ;Speech Enhancement: Multi-Channel Speech Enhancement and Hearing Aids
+Tue-A-V-4 ;Topics in ASR : Self-Supervision and Semi-Supervision for Neural ASR Training
+Tue-A-V-5 ;Spoken Language Processing  : I
+Tue-A-V-6 ;Voice Conversion and Adaptation : II 
+Tue-A-SS-1 ;Privacy-Preserving Machine Learning for Audio    Speech Processing 
+Tue-A-SS-2 ;The First DiCOVA Challenge: Diagnosis of COVID-19 Using Acoustics 
+Tue-A-ST-1 ;Show and Tell : 1
+Tue-Keynote ;Keynote : 1
+Tue-E-O-1 ;Topics in ASR :ASR Technologies and Systems
+Tue-E-O-2 ;Phonation and Voicing 
+Tue-E-O-3 ;Health and Affect  : I
+Tue-E-V-1 ;Speaker Recognition : Robust Speaker Recognition
+Tue-E-V-2 ;Source Separation, Dereverberation and Echo Cancellation 
+Tue-E-V-3 ;Speech Signal Analysis and Representation  : I
+Tue-E-V-4 ;Spoken Language Understanding  : I
+Tue-E-V-5 ;Topics in ASR: Adaptation, Transfer Learning, Childrens Speech, and Low-Resource Settings 
+Tue-E-V-6 ;Voice Conversion and Adaptation  : I
+Tue-E-SS-1 ;Voice Quality Characterization for Clinical Voice Assessment: Voice Production, Acoustics, and Auditory Perception 
+Wed-M-O-1 ;Topics in ASR : Miscellaneous
+Wed-M-O-2 ;Phonetics  : I
+Wed-M-O-3 ;Target Speaker Detection, Localization and Separation 
+Wed-M-V-1 ;Topics in ASR : Language and Accent Recognition
+Wed-M-V-2 ;Topics in ASR : Low-Resource Speech Recognition
+Wed-M-V-3 ;Speech Synthesis: Singing, Multimodal, Crosslingual Synthesis 
+Wed-M-V-4 ;Speech Coding and Privacy 
+Wed-M-V-5 ;Speech Perception : II 
+Wed-M-V-6 ;Topics in ASR : Streaming for ASR/RNN Transducers
+Wed-M-SS-1 ;Speech Enhancement: ConferencingSpeech 2021 Challenge: Far-Field Multi-Channel Speech Enhancement for Video Conferencing
+Wed-Survey ;Survey Talk : 2
+Wed-Keynote ;Keynote : 2
+Wed-A-O-1 ;Topics in ASR: Language Modeling and Text-Based Innovations for ASR
+Wed-A-O-2 ;Speaker, Language, and Privacy 
+Wed-A-O-3 ;Assessment of Pathological Speech and Language  : I
+Wed-A-V-1 ;Communication and Interaction, Multimodality 
+Wed-A-V-2 ;Topics in ASR : Language and Lexical Modeling for ASR
+Wed-A-V-3 ;Novel Neural Network Architectures for ASR 
+Wed-A-V-4 ;Speech Localization, Enhancement, and Quality Assessment 
+Wed-A-V-5 ;Speech Synthesis: Neural Waveform Generation 
+Wed-A-V-6 ;Spoken Machine Translation 
+Wed-A-SS-1 ;SdSV Challenge 2021: Analysis and Exploration of New Ideas on Short-Duration Speaker Verification 
+Wed-A-ST-1 ;Show and Tell : 2
+Wed-E-O-1 ;Speaker Recognition : Graph and End-to-End Learning for Speaker Recognition
+Wed-E-O-2 ;Spoken Language Processing : II 
+Wed-E-O-3 ;Speech and Audio Analysis 
+Wed-E-V-1 ;Topics in ASR: Cross/Multi-Lingual and Code-Switched ASR
+Wed-E-V-2 ;Health and Affect : II 
+Wed-E-V-3 ;Topics in ASR: Neural Network Training Methods for ASR
+Wed-E-V-4 ;Prosodic Features and Structure 
+Wed-E-V-5 ;Speech Enhancement: Single-Channel Speech Enhancement
+Wed-E-V-6 ;Speech Synthesis: Tools, Data, Evaluation 
+Wed-E-SS-1 ;INTERSPEECH 2021 Deep Noise Suppression Challenge 
+Thu-M-O-1 ;Topics in ASR : Neural Network Training Methods and Architectures for ASR
+Thu-M-O-2 ;Emotion and Sentiment Analysis  : I
+Thu-M-O-3 ;Topics in ASR : Linguistic Components in End-to-End ASR
+Thu-M-V-1 ;Assessment of Pathological Speech and Language : II 
+Thu-M-V-2 ;Multimodal Systems 
+Thu-M-V-3 ;Source Separation  : I
+Thu-M-V-4 ;Speaker Diarization  : I
+Thu-M-V-5 ;Speech Synthesis: Prosody Modeling  I
+Thu-M-V-6 ;Speech Production : II 
+Thu-M-V-7 ;Spoken Dialogue Systems : II 
+Thu-M-SS-1 ;Topics in ASR : Oriental Language Recognition
+Thu-M-SS-2 ;Topics in ASR : Automatic Speech Recognition in Air Traffic Management
+Thu-M-ST-1 ;Show and Tell : 3
+Thu-Survey ;Survey Talk : 3
+Thu-Keynote ;Keynote : 3
+Thu-A-O-1 ;Speech Production  : I
+Thu-A-O-2 ;Speech Enhancement: Speech Enhancement and Coding
+Thu-A-V-1 ;Emotion and Sentiment Analysis : II 
+Thu-A-V-2 ;Topics in ASR : Multi- and Cross-Lingual ASR, Other
+Thu-A-V-3 ;Source Separation : II 
+Thu-A-V-4 ;Speaker Diarization : II 
+Thu-A-V-5 ;Speech Synthesis: Toward End-to-End Synthesis   I
+Thu-A-V-6 ;Tools, Corpora and Resources 
+Thu-A-SS-1 ;Non-Autoregressive Sequential Modeling for Speech Processing 
+Thu-A-SS-2 ;The ADReSSo Challenge: Detecting Cognitive Decline Using Speech Only 
+Fri-M-O-1 ;Topics in ASR : Robust and Far-Field ASR
+Fri-M-O-2 ;Speech Synthesis: Prosody Modeling  II
+Fri-M-O-3 ;Source Separation : III 
+Fri-M-V-1 ;Non-Native Speech 
+Fri-M-V-2 ;Phonetics : II 
+Fri-M-V-3 ;Topics in ASR : Search/Decoding Techniques and Confidence Measures for ASR
+Fri-M-V-4 ;Speech Synthesis: Linguistic Processing, Paradigms and Other Topics 
+Fri-M-V-5 ;Speech Type Classification and Diagnosis 
+Fri-M-V-6 ;Spoken Term Detection    Voice Search 
+Fri-M-V-7 ;Voice Anti-Spoofing and Countermeasure 
+Fri-M-SS-1 ;Topics in ASR : OpenASR20 and Low Resource ASR Development
+Fri-Survey ;Survey Talk : 4
+Fri-Keynote ;Keynote : 4
+Fri-A-O-1 ;Voice Activity Detection 
+Fri-A-O-2 ;Keyword Search and Spoken Language Processing 
+Fri-A-V-1 ;Applications in Transcription, Education and Learning 
+Fri-A-V-2 ;Emotion and Sentiment Analysis : III 
+Fri-A-V-3 ;Topics in ASR : Resource-Constrained ASR
+Fri-A-V-4 ;Speaker Recognition: Applications 
+Fri-A-V-5 ;Speech Synthesis: Speaking Style and Emotion 
+Fri-A-V-6 ;Spoken Language Understanding : II 
+Fri-A-SS-1 ;INTERSPEECH 2021 Acoustic Echo Cancellation Challenge 
+Fri-A-SS-2 ;Topics in ASR : Speech Recognition of Atypical Speech
+Fri-A-ST-1 ;Show and Tell : 4
