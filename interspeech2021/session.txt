@@ -49,7 +49,7 @@ Wed-A-O-2 ;Speaker, Language, and Privacy
 Wed-A-O-3 ;Assessment of Pathological Speech and Language  : I
 Wed-A-V-1 ;Communication and Interaction, Multimodality 
 Wed-A-V-2 ;Topics in ASR : Language and Lexical Modeling for ASR
-Wed-A-V-3 ;Novel Neural Network Architectures for ASR 
+Wed-A-V-3 ;Topics in ASR : Novel Neural Network Architectures for ASR
 Wed-A-V-4 ;Speech Localization, Enhancement, and Quality Assessment 
 Wed-A-V-5 ;Speech Synthesis: Neural Waveform Generation 
 Wed-A-V-6 ;Spoken Machine Translation 

@@ -5,8 +5,10 @@
 # @File : draw.py
 import json
 
-from pyecharts.charts import Pie, TreeMap
+from pyecharts.charts import Pie, TreeMap, Bar
 import pyecharts.options as opts
+from pyecharts.faker import Faker
+
 
 def draw_pie():
     with open("interspeech2021.json", 'r', encoding='utf-8') as f:
@@ -109,5 +111,31 @@ def draw_treemap():
     )
 
 
+def draw_bar():
+    with open("interspeech2021-tree_map.json", 'r', encoding='utf-8') as f:
+        data: dict = json.load(f)["children"]
+
+    bar_data = []
+    for item in data:
+        bar_data.append((item["name"], item["value"]))
+    bar_data = sorted(bar_data, key=lambda x: x[1])[-20:]
+
+    x_data = []
+    y_data = []
+    for item in bar_data:
+        x_data.append(item[0])
+        y_data.append(item[1])
+
+    c = (
+        Bar(init_opts=opts.InitOpts(width="1800px", height="890px"))
+            .add_xaxis(x_data)
+            .add_yaxis("论文数量", y_data, gap="50%")
+            .set_series_opts(label_opts=opts.LabelOpts(position="right"))
+            .set_global_opts(title_opts=opts.TitleOpts(title="interspeech top20 session"))
+            .reversal_axis()
+            .render("interspeech2021_bar.html")
+    )
+
 if __name__ == '__main__':
     draw_treemap()
+    draw_bar()
