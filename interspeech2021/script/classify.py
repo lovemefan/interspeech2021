@@ -6,17 +6,19 @@
 import json
 import re
 
+from tqdm import tqdm
+
 
 def save2json():
     inter_speech = dict()
-    with open("session.txt", encoding='utf-8') as f:
+    with open("../data/session.txt", encoding='utf-8') as f:
         for line in f:
             session, topic = line.strip().split(';')
             inter_speech[topic] = {"session": session.strip()}
             # print(inter_speech)
 
             session_paper = dict()
-            with open("paper.txt", encoding='utf-8') as papers:
+            with open("../data/paper.txt", encoding='utf-8') as papers:
                 for paper in papers:
                     session_id, paper_name = paper.strip().split("|")
                     if len(session_id.split()) == 2:
@@ -35,12 +37,12 @@ def save2json():
                  inter_speech[key]["papers"] = sorted(session_paper[value['session']], key = lambda x: x['id'])
 
 
-    with open("interspeech2021.json", 'w', encoding='utf-8') as f:
+    with open("../data/interspeech2021.json", 'w', encoding='utf-8') as f:
         json.dump(inter_speech, f, ensure_ascii=False)
 
 
 def save_treemap():
-    with open("interspeech2021.json", encoding='utf-8') as f:
+    with open("../data/interspeech2021.json", encoding='utf-8') as f:
         interspeech:dict = json.load(f)
 
     tree_map = []
@@ -80,18 +82,20 @@ def save_treemap():
 
 
     add_value(_map)
-    with open("interspeech2021-tree_map.json", 'w', encoding='utf-8') as f:
+    with open("../data/interspeech2021-tree_map.json", 'w', encoding='utf-8') as f:
         json.dump(_map, f, ensure_ascii=False)
 
-    123
+def generate_paper_list():
+    with open("../data/WELCOME.HTM", "r", encoding="utf-8") as file:
+        pattern = re.compile(".*?IS\d+\.PDF.*?$", re.I)
+        for line in tqdm(file):
+            is_paper = pattern.match(line)
+            if is_paper:
+                print(line)
 
-# def temp():
-#     with open("paper.txt", 'r', encoding='utf-8') as papers:
-#         text = papers.read()
-#         text = re.sub(r'-(\d)\s', r" \1", text)
-#     with open("paper.txt", 'w', encoding='utf-8') as papers:
-#         papers.write(text)
+
 
 if __name__ == '__main__':
-    save2json()
-    save_treemap()
+    generate_paper_list()
+    # save2json()
+    # save_treemap()
