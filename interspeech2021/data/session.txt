@@ -8,8 +8,7 @@ Tue-M-V-4 ;Spoken Dialogue Systems  : I
 Tue-M-V-5 ;Topics in ASR: Robustness, Feature Extraction, and Far-Field ASR 
 Tue-M-V-6 ;Voice Activity Detection and Keyword Spotting 
 Tue-M-V-7 ;Voice and Voicing 
-Tue-M-SS-1 ;The INTERSPEECH 2021 Computational Paralinguistics Challenge (ComParE)    COVID-19 Cough, COVID-19 Speech, Escalation    Primates 
-Tue-Survey ;Survey Talk : 1
+Tue-M-SS-1 ;The INTERSPEECH 2021 Computational Paralinguistics Challenge (ComParE)    COVID-19 Cough, COVID-19 Speech, Escalation    Primates
 Tue-A-O-1 ;Speaker Recognition : Embedding and Network Architecture for Speaker Recognition
 Tue-A-O-2 ;Speech Perception  : I
 Tue-A-V-1 ;Acoustic Event Detection and Acoustic Scene Classification 
@@ -21,7 +20,6 @@ Tue-A-V-6 ;Voice Conversion and Adaptation : II
 Tue-A-SS-1 ;Privacy-Preserving Machine Learning for Audio    Speech Processing 
 Tue-A-SS-2 ;The First DiCOVA Challenge: Diagnosis of COVID-19 Using Acoustics 
 Tue-A-ST-1 ;Show and Tell : 1
-Tue-Keynote ;Keynote : 1
 Tue-E-O-1 ;Topics in ASR :ASR Technologies and Systems
 Tue-E-O-2 ;Phonation and Voicing 
 Tue-E-O-3 ;Health and Affect  : I
@@ -42,8 +40,6 @@ Wed-M-V-4 ;Speech Coding and Privacy
 Wed-M-V-5 ;Speech Perception : II 
 Wed-M-V-6 ;Topics in ASR : Streaming for ASR/RNN Transducers
 Wed-M-SS-1 ;Speech Enhancement: ConferencingSpeech 2021 Challenge: Far-Field Multi-Channel Speech Enhancement for Video Conferencing
-Wed-Survey ;Survey Talk : 2
-Wed-Keynote ;Keynote : 2
 Wed-A-O-1 ;Topics in ASR: Language Modeling and Text-Based Innovations for ASR
 Wed-A-O-2 ;Speaker, Language, and Privacy 
 Wed-A-O-3 ;Assessment of Pathological Speech and Language  : I
@@ -78,8 +74,6 @@ Thu-M-V-7 ;Spoken Dialogue Systems : II
 Thu-M-SS-1 ;Topics in ASR : Oriental Language Recognition
 Thu-M-SS-2 ;Topics in ASR : Automatic Speech Recognition in Air Traffic Management
 Thu-M-ST-1 ;Show and Tell : 3
-Thu-Survey ;Survey Talk : 3
-Thu-Keynote ;Keynote : 3
 Thu-A-O-1 ;Speech Production  : I
 Thu-A-O-2 ;Speech Enhancement: Speech Enhancement and Coding
 Thu-A-V-1 ;Emotion and Sentiment Analysis : II 
@@ -101,8 +95,6 @@ Fri-M-V-5 ;Speech Type Classification and Diagnosis
 Fri-M-V-6 ;Spoken Term Detection    Voice Search 
 Fri-M-V-7 ;Voice Anti-Spoofing and Countermeasure 
 Fri-M-SS-1 ;Topics in ASR : OpenASR20 and Low Resource ASR Development
-Fri-Survey ;Survey Talk : 4
-Fri-Keynote ;Keynote : 4
 Fri-A-O-1 ;Voice Activity Detection 
 Fri-A-O-2 ;Keyword Search and Spoken Language Processing 
 Fri-A-V-1 ;Applications in Transcription, Education and Learning 
