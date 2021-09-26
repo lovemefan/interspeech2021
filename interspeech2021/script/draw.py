@@ -107,7 +107,7 @@ def draw_treemap():
                 title="Interspeech 2021 论文分布", subtitle="2021/9/2", pos_left="leafDepth"
             ),
         )
-            .render("Interspeech2021论文分布.html")
+            .render("../../docs/Interspeech2021.html")
     )
 
 
@@ -187,13 +187,13 @@ def draw_session_pie(session):
             ),
         )
             .set_global_opts(title_opts=opts.TitleOpts(title="Pie-富文本示例"))
-            .render(f"interspeech_{session}.html")
+            .render(f"../../docs/interspeech_{session}.html")
     )
 
 
 def draw_session_cloud(session: str):
     words = {}
-    with open("asr_paer", 'w', encoding='utf-8') as asr:
+    with open("../../docs/asr_paer", 'w', encoding='utf-8') as asr:
         with open("../data/interspeech2021-tree_map.json", 'r', encoding='utf-8') as f:
             data: dict = json.load(f)["children"]
             for item in data:
@@ -230,8 +230,8 @@ def draw_session_cloud(session: str):
     )
 
 if __name__ == '__main__':
-    # draw_treemap()
+    draw_treemap()
     # draw_session_pie("Speech Synthesis")
     # draw_session_pie("Topics in ASR")
-    draw_session_cloud("Topics in ASR")
-    draw_session_cloud("Speech Synthesis")
+    # draw_session_cloud("Topics in ASR")
+    # draw_session_cloud("Speech Synthesis")

@@ -20,7 +20,8 @@ def save2json():
             session_paper = dict()
             with open("../data/paper.txt", encoding='utf-8') as papers:
                 for paper in papers:
-                    session_id, paper_name = paper.strip().split("|")
+                    session_id, paper_name, uri = paper.strip().split("|")
+                    paper_name = f"{paper_name}|{uri.replace('/IS2021/HTML/AUTHOR', '/papers')}"
                     if len(session_id.split()) == 2:
                         session, id = session_id.split()
                         session = session.strip()
@@ -34,7 +35,7 @@ def save2json():
                         session_paper[session].append({"id": int(id), "name": paper_name})
 
             for key, value in inter_speech.items():
-                 inter_speech[key]["papers"] = sorted(session_paper[value['session']], key = lambda x: x['id'])
+                 inter_speech[key]["papers"] = sorted(session_paper[value['session']], key=lambda x: x['id'])
 
 
     with open("../data/interspeech2021.json", 'w', encoding='utf-8') as f:
@@ -85,17 +86,37 @@ def save_treemap():
     with open("../data/interspeech2021-tree_map.json", 'w', encoding='utf-8') as f:
         json.dump(_map, f, ensure_ascii=False)
 
+
 def generate_paper_list():
-    with open("../data/WELCOME.HTM", "r", encoding="utf-8") as file:
-        pattern = re.compile(".*?IS\d+\.PDF.*?$", re.I)
-        for line in tqdm(file):
-            is_paper = pattern.match(line)
-            if is_paper:
-                print(line)
+    count = 0
+    papers_uri = set()
+    with open("../data/paper.txt", 'w', encoding='utf-8') as paper_file:
+        with open("../data/WELCOME.HTM", "r", encoding="utf-8") as file:
+            pattern = re.compile(".*?IS\d+\.PDF.*?$", re.I)
+            for line in tqdm(file):
+                is_paper = pattern.match(line)
+                if is_paper:
+                    uri = re.findall("/IS2021/HTML/AUTHOR/IS\d+.PDF", line)[0]
+                    if uri not in papers_uri:
+                        papers_uri.add(uri)
+                        info = re.findall("\[\[.*?\]\]", line)[0].replace("[", "").replace("]", "")
+                        session, paper_name = info.split("|")
+
+                        # 细分session
+                        session = session.replace('&amp', '').replace(";", '')
+                        session = re.split("(\d+)", session)
+
+                        session[2] = ' '
+                        session = "".join(session)
+
+                        paper_name = paper_name.split("—")[-1].strip()
+                        paper_file.write(f"{session}|{paper_name}|{uri}\n")
+                        count += 1
+                        # print(count)
 
 
 
 if __name__ == '__main__':
     generate_paper_list()
-    # save2json()
-    # save_treemap()
+    save2json()
+    save_treemap()
